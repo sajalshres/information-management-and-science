@@ -1,0 +1,7072 @@
+[
+    {
+        "first_name": "Douglas",
+        "gender": "Male",
+        "start_date": "8/6/1993",
+        "last_login_time": "12:42 PM",
+        "salary": 107308,
+        "bonus": 6.945,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Maria",
+        "gender": "Female",
+        "start_date": "4/23/1993",
+        "last_login_time": "11:17 AM",
+        "salary": 130590,
+        "bonus": 16.858,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Jerry",
+        "gender": "Male",
+        "start_date": "3/4/2005",
+        "last_login_time": "1:00 PM",
+        "salary": 148705,
+        "bonus": 9.34,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Larry",
+        "gender": "Male",
+        "start_date": "1/24/1998",
+        "last_login_time": "4:47 PM",
+        "salary": 111004,
+        "bonus": 1.389,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Dennis",
+        "gender": "Male",
+        "start_date": "4/18/1987",
+        "last_login_time": "1:35 AM",
+        "salary": 115163,
+        "bonus": 15.125,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "8/17/1987",
+        "last_login_time": "4:20 PM",
+        "salary": 75476,
+        "bonus": 10.012,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Frances",
+        "gender": "Female",
+        "start_date": "8/8/2002",
+        "last_login_time": "6:51 AM",
+        "salary": 149852,
+        "bonus": 7.524,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Julie",
+        "gender": "Female",
+        "start_date": "10/26/1997",
+        "last_login_time": "3:19 PM",
+        "salary": 112508,
+        "bonus": 12.637,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Brandon",
+        "gender": "Male",
+        "start_date": "12/1/1980",
+        "last_login_time": "1:08 AM",
+        "salary": 122807,
+        "bonus": 17.492,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Gary",
+        "gender": "Male",
+        "start_date": "1/27/2008",
+        "last_login_time": "11:40 PM",
+        "salary": 109831,
+        "bonus": 10.831,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Kimberly",
+        "gender": "Female",
+        "start_date": "1/14/1999",
+        "last_login_time": "7:13 AM",
+        "salary": 51426,
+        "bonus": 14.543,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Lillian",
+        "gender": "Female",
+        "start_date": "6/5/2016",
+        "last_login_time": "6:09 AM",
+        "salary": 59414,
+        "bonus": 6.256,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "9/21/2010",
+        "last_login_time": "5:56 AM",
+        "salary": 90370,
+        "bonus": 12.369,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "12/7/1986",
+        "last_login_time": "7:45 PM",
+        "salary": 111737,
+        "bonus": 11.414,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Diana",
+        "gender": "Female",
+        "start_date": "10/23/1981",
+        "last_login_time": "10:27 AM",
+        "salary": 132940,
+        "bonus": 24.082,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Donna",
+        "gender": "Female",
+        "start_date": "7/22/2010",
+        "last_login_time": "3:48 AM",
+        "salary": 81014,
+        "bonus": 6.894,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Matthew",
+        "gender": "Male",
+        "start_date": "9/5/1995",
+        "last_login_time": "2:12 AM",
+        "salary": 100612,
+        "bonus": 18.645,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "John",
+        "gender": "Male",
+        "start_date": "7/1/1992",
+        "last_login_time": "10:08 PM",
+        "salary": 97950,
+        "bonus": 18.872999999999998,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Craig",
+        "gender": "Male",
+        "start_date": "2/27/2000",
+        "last_login_time": "7:45 AM",
+        "salary": 47598,
+        "bonus": 7.757,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Terry",
+        "gender": "Male",
+        "start_date": "11/27/1981",
+        "last_login_time": "6:30 PM",
+        "salary": 134008,
+        "bonus": 13.464,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Benjamin",
+        "gender": "Male",
+        "start_date": "1/26/2005",
+        "last_login_time": "10:06 PM",
+        "salary": 89529,
+        "bonus": 7.008,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Christina",
+        "gender": "Female",
+        "start_date": "8/6/2002",
+        "last_login_time": "1:19 PM",
+        "salary": 128780,
+        "bonus": 9.096,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jean",
+        "gender": "Female",
+        "start_date": "12/18/1993",
+        "last_login_time": "9:07 AM",
+        "salary": 119082,
+        "bonus": 21.18,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jerry",
+        "gender": "Male",
+        "start_date": "1/10/2004",
+        "last_login_time": "12:56 PM",
+        "salary": 95734,
+        "bonus": 24.096,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Theresa",
+        "gender": "Female",
+        "start_date": "10/10/2006",
+        "last_login_time": "1:12 AM",
+        "salary": 85182,
+        "bonus": 21.675,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Rachel",
+        "gender": "Female",
+        "start_date": "2/16/2009",
+        "last_login_time": "8:47 PM",
+        "salary": 142032,
+        "bonus": 17.599,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "10/19/1981",
+        "last_login_time": "8:49 PM",
+        "salary": 67427,
+        "bonus": 9.557,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Stephanie",
+        "gender": "Female",
+        "start_date": "9/13/1986",
+        "last_login_time": "1:52 AM",
+        "salary": 46844,
+        "bonus": 5.574,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Michael",
+        "gender": "Male",
+        "start_date": "10/10/2008",
+        "last_login_time": "11:25 AM",
+        "salary": 109283,
+        "bonus": 2.665,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Beverly",
+        "gender": "Female",
+        "start_date": "9/9/1998",
+        "last_login_time": "8:26 PM",
+        "salary": 121918,
+        "bonus": 20.835,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "12/7/1980",
+        "last_login_time": "3:16 AM",
+        "salary": 83524,
+        "bonus": 5.207,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "11/16/1988",
+        "last_login_time": "6:54 PM",
+        "salary": 155146,
+        "bonus": 7.482,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Roger",
+        "gender": "Male",
+        "start_date": "4/17/1980",
+        "last_login_time": "11:32 AM",
+        "salary": 98010,
+        "bonus": 13.886,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Bruce",
+        "gender": "Male",
+        "start_date": "11/28/2009",
+        "last_login_time": "10:47 PM",
+        "salary": 114796,
+        "bonus": 11.796,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "6/22/2005",
+        "last_login_time": "4:51 AM",
+        "salary": 76820,
+        "bonus": 9.0,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "3/26/1996",
+        "last_login_time": "5:57 AM",
+        "salary": 103581,
+        "bonus": 6.083,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Nancy",
+        "gender": "Female",
+        "start_date": "9/23/2000",
+        "last_login_time": "8:05 AM",
+        "salary": 104976,
+        "bonus": 13.83,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "2/18/1990",
+        "last_login_time": "2:41 AM",
+        "salary": 59339,
+        "bonus": 1.695,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Sara",
+        "gender": "Female",
+        "start_date": "8/15/2007",
+        "last_login_time": "9:23 AM",
+        "salary": 83677,
+        "bonus": 13.999,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Karen",
+        "gender": "Female",
+        "start_date": "11/30/1999",
+        "last_login_time": "7:46 AM",
+        "salary": 112488,
+        "bonus": 17.653,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Carl",
+        "gender": "Male",
+        "start_date": "5/3/2006",
+        "last_login_time": "5:55 PM",
+        "salary": 140276,
+        "bonus": 16.084,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Henry",
+        "gender": "Male",
+        "start_date": "6/26/1996",
+        "last_login_time": "1:44 AM",
+        "salary": 74715,
+        "bonus": 15.107,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Theresa",
+        "gender": "Female",
+        "start_date": "4/11/2010",
+        "last_login_time": "7:18 AM",
+        "salary": 82670,
+        "bonus": 1.481,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "5/7/1997",
+        "last_login_time": "9:32 AM",
+        "salary": 66851,
+        "bonus": 16.279,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Denise",
+        "gender": "Female",
+        "start_date": "11/6/2001",
+        "last_login_time": "12:03 PM",
+        "salary": 106862,
+        "bonus": 8.699,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Matthew",
+        "gender": "Male",
+        "start_date": "1/2/2013",
+        "last_login_time": "10:33 PM",
+        "salary": 35203,
+        "bonus": 23.04,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Steve",
+        "gender": "Male",
+        "start_date": "11/11/2009",
+        "last_login_time": "11:44 PM",
+        "salary": 71310,
+        "bonus": 12.428,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Nancy",
+        "gender": "Female",
+        "start_date": "12/15/2012",
+        "last_login_time": "11:57 PM",
+        "salary": 135250,
+        "bonus": 2.672,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Rachel",
+        "gender": "Female",
+        "start_date": "8/16/1999",
+        "last_login_time": "6:53 AM",
+        "salary": 61178,
+        "bonus": 9.735,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Jose",
+        "gender": "Male",
+        "start_date": "10/30/2004",
+        "last_login_time": "1:39 PM",
+        "salary": 94834,
+        "bonus": 14.33,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Johnny",
+        "gender": "Male",
+        "start_date": "11/6/2009",
+        "last_login_time": "4:23 PM",
+        "salary": 128172,
+        "bonus": 16.194,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Bobby",
+        "gender": "Male",
+        "start_date": "5/7/2007",
+        "last_login_time": "10:01 AM",
+        "salary": 54043,
+        "bonus": 8.833,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Frances",
+        "gender": "Female",
+        "start_date": "4/4/1999",
+        "last_login_time": "4:19 PM",
+        "salary": 100582,
+        "bonus": 4.709,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Thomas",
+        "gender": "Male",
+        "start_date": "6/4/1995",
+        "last_login_time": "2:24 PM",
+        "salary": 62096,
+        "bonus": 22.029,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Bonnie",
+        "gender": "Female",
+        "start_date": "7/2/1991",
+        "last_login_time": "1:27 AM",
+        "salary": 114897,
+        "bonus": 5.118,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Margaret",
+        "gender": "Female",
+        "start_date": "9/10/1988",
+        "last_login_time": "12:42 PM",
+        "salary": 141604,
+        "bonus": 7.353,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Charles",
+        "gender": "Male",
+        "start_date": "9/14/2004",
+        "last_login_time": "8:13 PM",
+        "salary": 117391,
+        "bonus": 1.26,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Robin",
+        "gender": "Female",
+        "start_date": "6/4/1983",
+        "last_login_time": "3:15 PM",
+        "salary": 124797,
+        "bonus": 5.965,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Bonnie",
+        "gender": "Female",
+        "start_date": "11/13/1988",
+        "last_login_time": "3:30 PM",
+        "salary": 115814,
+        "bonus": 9.99,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Christopher",
+        "gender": "Male",
+        "start_date": "3/30/2008",
+        "last_login_time": "10:52 AM",
+        "salary": 47369,
+        "bonus": 19.822,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "3/30/1980",
+        "last_login_time": "9:20 PM",
+        "salary": 45095,
+        "bonus": 8.379,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "9/23/2005",
+        "last_login_time": "2:55 AM",
+        "salary": 158115,
+        "bonus": 6.539,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Doris",
+        "gender": "Female",
+        "start_date": "8/20/2004",
+        "last_login_time": "5:51 AM",
+        "salary": 83072,
+        "bonus": 12.511,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "2/1/2008",
+        "last_login_time": "8:50 AM",
+        "salary": 110238,
+        "bonus": 3.887,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Donna",
+        "gender": "Female",
+        "start_date": "11/27/1991",
+        "last_login_time": "1:59 PM",
+        "salary": 74088,
+        "bonus": 6.155,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Janice",
+        "gender": "Female",
+        "start_date": "3/12/2016",
+        "last_login_time": "12:40 AM",
+        "salary": 51082,
+        "bonus": 16.955,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "5/25/2000",
+        "last_login_time": "5:45 PM",
+        "salary": 129009,
+        "bonus": 12.506,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Harry",
+        "gender": "Male",
+        "start_date": "8/26/1981",
+        "last_login_time": "3:16 PM",
+        "salary": 130620,
+        "bonus": 12.030000000000001,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Heather",
+        "gender": "Female",
+        "start_date": "7/11/1998",
+        "last_login_time": "2:17 PM",
+        "salary": 43026,
+        "bonus": 19.166,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "3/21/1994",
+        "last_login_time": "8:34 AM",
+        "salary": 142321,
+        "bonus": 6.737,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Tina",
+        "gender": "Female",
+        "start_date": "6/16/2016",
+        "last_login_time": "7:47 PM",
+        "salary": 110705,
+        "bonus": 16.961,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Harold",
+        "gender": "Male",
+        "start_date": "1/2/1985",
+        "last_login_time": "9:40 PM",
+        "salary": 77544,
+        "bonus": 17.447,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Melissa",
+        "gender": "Female",
+        "start_date": "6/21/2005",
+        "last_login_time": "6:33 AM",
+        "salary": 48109,
+        "bonus": 19.994999999999997,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Jack",
+        "gender": "Male",
+        "start_date": "1/12/1997",
+        "last_login_time": "5:51 AM",
+        "salary": 103902,
+        "bonus": 17.159,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Phyllis",
+        "gender": "Female",
+        "start_date": "10/11/1996",
+        "last_login_time": "9:30 PM",
+        "salary": 146984,
+        "bonus": 8.932,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "John",
+        "gender": "Male",
+        "start_date": "12/23/1989",
+        "last_login_time": "7:01 AM",
+        "salary": 80740,
+        "bonus": 24.305,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "3/9/1996",
+        "last_login_time": "4:33 AM",
+        "salary": 91712,
+        "bonus": 13.567,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Paul",
+        "gender": "Male",
+        "start_date": "8/4/1993",
+        "last_login_time": "7:25 PM",
+        "salary": 42146,
+        "bonus": 8.046,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "4/23/2013",
+        "last_login_time": "10:12 PM",
+        "salary": 68680,
+        "bonus": 21.565,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Shirley",
+        "gender": "Female",
+        "start_date": "6/20/2001",
+        "last_login_time": "10:39 PM",
+        "salary": 147113,
+        "bonus": 21.135,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Bonnie",
+        "gender": "Female",
+        "start_date": "12/17/1999",
+        "last_login_time": "3:12 PM",
+        "salary": 52153,
+        "bonus": 8.454,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Willie",
+        "gender": "Male",
+        "start_date": "11/27/2003",
+        "last_login_time": "6:21 AM",
+        "salary": 64363,
+        "bonus": 9.023,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Tina",
+        "gender": "Female",
+        "start_date": "6/12/2009",
+        "last_login_time": "7:16 AM",
+        "salary": 124767,
+        "bonus": 3.711,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Pamela",
+        "gender": "Female",
+        "start_date": "7/1/1982",
+        "last_login_time": "6:51 AM",
+        "salary": 54585,
+        "bonus": 9.166,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "3/1/1995",
+        "last_login_time": "3:03 PM",
+        "salary": 109095,
+        "bonus": 14.494,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Paul",
+        "gender": "Male",
+        "start_date": "6/3/2008",
+        "last_login_time": "3:05 PM",
+        "salary": 41054,
+        "bonus": 17.299,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Peter",
+        "gender": "Male",
+        "start_date": "11/17/1994",
+        "last_login_time": "6:15 PM",
+        "salary": 84885,
+        "bonus": 20.402,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Christina",
+        "gender": "Female",
+        "start_date": "4/13/2012",
+        "last_login_time": "2:04 PM",
+        "salary": 120169,
+        "bonus": 13.892,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Helen",
+        "gender": "Female",
+        "start_date": "11/29/2001",
+        "last_login_time": "2:30 AM",
+        "salary": 83789,
+        "bonus": 14.841,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "11/16/1983",
+        "last_login_time": "8:29 AM",
+        "salary": 86078,
+        "bonus": 2.401,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Patricia",
+        "gender": "Female",
+        "start_date": "9/1/2003",
+        "last_login_time": "6:46 AM",
+        "salary": 49368,
+        "bonus": 19.226,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Michelle",
+        "gender": "Female",
+        "start_date": "3/30/1984",
+        "last_login_time": "6:43 PM",
+        "salary": 67325,
+        "bonus": 17.179,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "William",
+        "gender": "Male",
+        "start_date": "9/29/2002",
+        "last_login_time": "4:09 PM",
+        "salary": 66521,
+        "bonus": 10.83,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Kenneth",
+        "gender": "Male",
+        "start_date": "8/25/1987",
+        "last_login_time": "9:16 PM",
+        "salary": 137654,
+        "bonus": 16.439,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Shirley",
+        "gender": "Female",
+        "start_date": "5/1/1984",
+        "last_login_time": "1:15 PM",
+        "salary": 51334,
+        "bonus": 6.219,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Rebecca",
+        "gender": "Female",
+        "start_date": "7/10/1992",
+        "last_login_time": "12:23 AM",
+        "salary": 94231,
+        "bonus": 22.517,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Carlos",
+        "gender": "Male",
+        "start_date": "1/4/1995",
+        "last_login_time": "7:02 AM",
+        "salary": 146670,
+        "bonus": 15.763,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Lois",
+        "gender": "Female",
+        "start_date": "12/25/1987",
+        "last_login_time": "4:16 PM",
+        "salary": 116317,
+        "bonus": 2.235,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Carolyn",
+        "gender": "Female",
+        "start_date": "4/9/2011",
+        "last_login_time": "5:38 AM",
+        "salary": 119260,
+        "bonus": 2.65,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "6/29/2007",
+        "last_login_time": "5:34 AM",
+        "salary": 144148,
+        "bonus": 8.833,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Henry",
+        "gender": "Male",
+        "start_date": "4/24/1995",
+        "last_login_time": "4:18 AM",
+        "salary": 43542,
+        "bonus": 24.687,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Shirley",
+        "gender": "Female",
+        "start_date": "2/28/1981",
+        "last_login_time": "1:23 PM",
+        "salary": 113850,
+        "bonus": 6.854,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Elizabeth",
+        "gender": "Female",
+        "start_date": "10/9/2003",
+        "last_login_time": "5:53 PM",
+        "salary": 146129,
+        "bonus": 10.687000000000001,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Jennifer",
+        "gender": "Female",
+        "start_date": "4/4/2009",
+        "last_login_time": "10:47 PM",
+        "salary": 81715,
+        "bonus": 13.079,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Patricia",
+        "gender": "Female",
+        "start_date": "11/25/1992",
+        "last_login_time": "2:24 AM",
+        "salary": 95322,
+        "bonus": 9.15,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Philip",
+        "gender": "Male",
+        "start_date": "7/17/2008",
+        "last_login_time": "1:30 PM",
+        "salary": 89227,
+        "bonus": 8.996,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Sean",
+        "gender": "Male",
+        "start_date": "5/4/1996",
+        "last_login_time": "8:59 PM",
+        "salary": 135490,
+        "bonus": 24.934,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Ruth",
+        "gender": "Female",
+        "start_date": "8/19/1999",
+        "last_login_time": "4:03 AM",
+        "salary": 139297,
+        "bonus": 8.067,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Rebecca",
+        "gender": "Female",
+        "start_date": "11/15/1980",
+        "last_login_time": "4:13 AM",
+        "salary": 95730,
+        "bonus": 5.359,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "3/16/2003",
+        "last_login_time": "12:12 AM",
+        "salary": 114058,
+        "bonus": 17.695,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Howard",
+        "gender": "Male",
+        "start_date": "4/27/1992",
+        "last_login_time": "1:10 AM",
+        "salary": 105062,
+        "bonus": 6.563,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Norma",
+        "gender": "Female",
+        "start_date": "2/28/1999",
+        "last_login_time": "8:45 PM",
+        "salary": 124412,
+        "bonus": 8.756,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "3/18/2000",
+        "last_login_time": "7:26 PM",
+        "salary": 159563,
+        "bonus": 16.991,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Terry",
+        "gender": "Male",
+        "start_date": "9/3/1990",
+        "last_login_time": "9:15 PM",
+        "salary": 52226,
+        "bonus": 24.135,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Mary",
+        "gender": "Female",
+        "start_date": "8/13/1999",
+        "last_login_time": "1:03 AM",
+        "salary": 134645,
+        "bonus": 23.197,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Christopher",
+        "gender": "Male",
+        "start_date": "12/24/2011",
+        "last_login_time": "12:22 PM",
+        "salary": 152178,
+        "bonus": 17.984,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Michelle",
+        "gender": "Female",
+        "start_date": "11/4/1996",
+        "last_login_time": "9:34 PM",
+        "salary": 63754,
+        "bonus": 5.455,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "1/29/1992",
+        "last_login_time": "11:36 AM",
+        "salary": 143772,
+        "bonus": 19.02,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Patrick",
+        "gender": "Male",
+        "start_date": "8/17/2007",
+        "last_login_time": "3:16 AM",
+        "salary": 153499,
+        "bonus": 17.495,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Sara",
+        "gender": "Female",
+        "start_date": "9/23/1991",
+        "last_login_time": "6:17 PM",
+        "salary": 97058,
+        "bonus": 14.402,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Lillian",
+        "gender": "Female",
+        "start_date": "12/21/2008",
+        "last_login_time": "6:51 PM",
+        "salary": 95446,
+        "bonus": 3.959,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Willie",
+        "gender": "Male",
+        "start_date": "2/17/1998",
+        "last_login_time": "8:20 PM",
+        "salary": 156651,
+        "bonus": 1.451,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Victor",
+        "gender": "Male",
+        "start_date": "1/8/2003",
+        "last_login_time": "1:02 PM",
+        "salary": 124486,
+        "bonus": 15.166,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Wayne",
+        "gender": "Male",
+        "start_date": "4/7/2012",
+        "last_login_time": "8:00 AM",
+        "salary": 112652,
+        "bonus": 14.085,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Jane",
+        "gender": "Female",
+        "start_date": "9/3/1997",
+        "last_login_time": "2:01 AM",
+        "salary": 144474,
+        "bonus": 22.648,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Jessica",
+        "gender": "Female",
+        "start_date": "10/23/1995",
+        "last_login_time": "5:53 AM",
+        "salary": 78759,
+        "bonus": 19.343,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Mark",
+        "gender": "Male",
+        "start_date": "4/12/2008",
+        "last_login_time": "5:40 PM",
+        "salary": 67286,
+        "bonus": 5.025,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Randy",
+        "gender": "Male",
+        "start_date": "11/14/1999",
+        "last_login_time": "12:12 PM",
+        "salary": 68129,
+        "bonus": 1.952,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Lillian",
+        "gender": "Female",
+        "start_date": "6/19/1999",
+        "last_login_time": "4:44 PM",
+        "salary": 133940,
+        "bonus": 12.184,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jerry",
+        "gender": "Male",
+        "start_date": "12/18/2003",
+        "last_login_time": "6:46 AM",
+        "salary": 150810,
+        "bonus": 9.177,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Sandra",
+        "gender": "Female",
+        "start_date": "1/19/1983",
+        "last_login_time": "7:25 AM",
+        "salary": 52090,
+        "bonus": 8.842,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Roger",
+        "gender": "Male",
+        "start_date": "11/19/2004",
+        "last_login_time": "3:55 PM",
+        "salary": 51430,
+        "bonus": 11.46,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Charles",
+        "gender": "Male",
+        "start_date": "10/14/2000",
+        "last_login_time": "9:40 PM",
+        "salary": 71749,
+        "bonus": 20.930999999999997,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "5/2/1998",
+        "last_login_time": "3:16 AM",
+        "salary": 85700,
+        "bonus": 6.215,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Carol",
+        "gender": "Female",
+        "start_date": "3/19/1996",
+        "last_login_time": "3:39 AM",
+        "salary": 57783,
+        "bonus": 14.129,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Lois",
+        "gender": "Female",
+        "start_date": "10/18/2013",
+        "last_login_time": "4:51 PM",
+        "salary": 36946,
+        "bonus": 11.652000000000001,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Rebecca",
+        "gender": "Female",
+        "start_date": "2/18/1995",
+        "last_login_time": "6:50 AM",
+        "salary": 119259,
+        "bonus": 4.443,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "1/30/2004",
+        "last_login_time": "8:25 PM",
+        "salary": 131038,
+        "bonus": 13.996,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Ronald",
+        "gender": "Male",
+        "start_date": "4/30/2014",
+        "last_login_time": "2:19 PM",
+        "salary": 131068,
+        "bonus": 12.757,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "11/10/1985",
+        "last_login_time": "10:53 AM",
+        "salary": 62719,
+        "bonus": 24.127,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Carolyn",
+        "gender": "Female",
+        "start_date": "11/6/2012",
+        "last_login_time": "3:51 AM",
+        "salary": 69268,
+        "bonus": 8.031,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Maria",
+        "gender": "Female",
+        "start_date": "12/27/1990",
+        "last_login_time": "9:57 PM",
+        "salary": 46067,
+        "bonus": 9.64,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Gary",
+        "gender": "Male",
+        "start_date": "8/12/1987",
+        "last_login_time": "12:04 AM",
+        "salary": 89661,
+        "bonus": 13.525,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Kimberly",
+        "gender": "Female",
+        "start_date": "7/15/1997",
+        "last_login_time": "5:57 AM",
+        "salary": 36643,
+        "bonus": 12.953,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Roger",
+        "gender": "Male",
+        "start_date": "11/8/1982",
+        "last_login_time": "2:32 AM",
+        "salary": 150558,
+        "bonus": 5.084,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Diana",
+        "gender": "Female",
+        "start_date": "1/4/2013",
+        "last_login_time": "7:53 AM",
+        "salary": 113521,
+        "bonus": 2.784,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Willie",
+        "gender": "Male",
+        "start_date": "6/6/2006",
+        "last_login_time": "9:45 AM",
+        "salary": 65281,
+        "bonus": 4.935,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Brandon",
+        "gender": "Male",
+        "start_date": "3/27/2006",
+        "last_login_time": "5:54 PM",
+        "salary": 125711,
+        "bonus": 8.012,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Patricia",
+        "gender": "Female",
+        "start_date": "12/6/2012",
+        "last_login_time": "4:01 AM",
+        "salary": 124079,
+        "bonus": 8.399,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Katherine",
+        "gender": "Female",
+        "start_date": "11/14/1999",
+        "last_login_time": "8:15 AM",
+        "salary": 57531,
+        "bonus": 6.7669999999999995,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Jonathan",
+        "gender": "Male",
+        "start_date": "10/12/1987",
+        "last_login_time": "2:59 AM",
+        "salary": 141069,
+        "bonus": 9.902999999999999,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Emily",
+        "gender": "Female",
+        "start_date": "9/20/2007",
+        "last_login_time": "11:25 AM",
+        "salary": 89434,
+        "bonus": 16.295,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Ruth",
+        "gender": "Female",
+        "start_date": "8/12/1986",
+        "last_login_time": "7:29 PM",
+        "salary": 54639,
+        "bonus": 9.148,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "6/24/2006",
+        "last_login_time": "12:04 PM",
+        "salary": 120967,
+        "bonus": 19.612,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Lisa",
+        "gender": "Female",
+        "start_date": "11/2/2009",
+        "last_login_time": "9:42 AM",
+        "salary": 115387,
+        "bonus": 6.821,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Evelyn",
+        "gender": "Female",
+        "start_date": "5/24/1980",
+        "last_login_time": "11:10 PM",
+        "salary": 91673,
+        "bonus": 15.364,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Julie",
+        "gender": "Female",
+        "start_date": "7/23/1989",
+        "last_login_time": "1:52 PM",
+        "salary": 109588,
+        "bonus": 8.55,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Mary",
+        "gender": "Female",
+        "start_date": "5/30/2009",
+        "last_login_time": "11:41 PM",
+        "salary": 92544,
+        "bonus": 8.8,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Matthew",
+        "gender": "Male",
+        "start_date": "7/31/2013",
+        "last_login_time": "8:04 AM",
+        "salary": 142373,
+        "bonus": 7.462,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Douglas",
+        "gender": "Male",
+        "start_date": "9/3/1999",
+        "last_login_time": "4:00 PM",
+        "salary": 93341,
+        "bonus": 1.015,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Billy",
+        "gender": "Male",
+        "start_date": "3/13/1995",
+        "last_login_time": "12:05 PM",
+        "salary": 130444,
+        "bonus": 7.768,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Gregory",
+        "gender": "Male",
+        "start_date": "1/29/2000",
+        "last_login_time": "6:01 AM",
+        "salary": 109564,
+        "bonus": 8.845,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Jason",
+        "gender": "Male",
+        "start_date": "10/17/1999",
+        "last_login_time": "10:09 PM",
+        "salary": 78417,
+        "bonus": 8.067,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Daniel",
+        "gender": "Male",
+        "start_date": "4/30/2010",
+        "last_login_time": "3:48 AM",
+        "salary": 116947,
+        "bonus": 15.866,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Sarah",
+        "gender": "Female",
+        "start_date": "9/14/1995",
+        "last_login_time": "7:50 AM",
+        "salary": 87298,
+        "bonus": 7.311,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Harry",
+        "gender": "Male",
+        "start_date": "10/1/2015",
+        "last_login_time": "7:47 PM",
+        "salary": 74579,
+        "bonus": 15.266,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "4/19/1995",
+        "last_login_time": "12:46 AM",
+        "salary": 60905,
+        "bonus": 9.404,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "4/13/1999",
+        "last_login_time": "10:31 AM",
+        "salary": 69728,
+        "bonus": 11.226,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Bobby",
+        "gender": "Male",
+        "start_date": "9/23/1994",
+        "last_login_time": "1:29 AM",
+        "salary": 61685,
+        "bonus": 17.445,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "6/8/2000",
+        "last_login_time": "12:15 AM",
+        "salary": 59542,
+        "bonus": 1.679,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Diane",
+        "gender": "Female",
+        "start_date": "4/18/1993",
+        "last_login_time": "3:22 AM",
+        "salary": 64084,
+        "bonus": 22.018,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "4/4/1997",
+        "last_login_time": "9:28 PM",
+        "salary": 147663,
+        "bonus": 15.263,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Kathryn",
+        "gender": "Female",
+        "start_date": "2/4/2004",
+        "last_login_time": "1:47 PM",
+        "salary": 73935,
+        "bonus": 19.752000000000002,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "2/4/1982",
+        "last_login_time": "5:26 PM",
+        "salary": 50837,
+        "bonus": 12.182,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Norma",
+        "gender": "Female",
+        "start_date": "2/11/2015",
+        "last_login_time": "11:44 PM",
+        "salary": 104393,
+        "bonus": 3.643,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Laura",
+        "gender": "Female",
+        "start_date": "4/2/2006",
+        "last_login_time": "1:57 PM",
+        "salary": 42087,
+        "bonus": 7.6240000000000006,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Cheryl",
+        "gender": "Female",
+        "start_date": "9/23/2008",
+        "last_login_time": "2:57 AM",
+        "salary": 52080,
+        "bonus": 14.375,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Kevin",
+        "gender": "Male",
+        "start_date": "3/25/1982",
+        "last_login_time": "7:31 AM",
+        "salary": 35061,
+        "bonus": 10.128,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Walter",
+        "gender": "Male",
+        "start_date": "7/6/1983",
+        "last_login_time": "11:54 PM",
+        "salary": 127813,
+        "bonus": 10.961,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Robert",
+        "gender": "Male",
+        "start_date": "10/27/1990",
+        "last_login_time": "7:15 PM",
+        "salary": 48041,
+        "bonus": 18.428,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jimmy",
+        "gender": "Male",
+        "start_date": "10/7/1986",
+        "last_login_time": "5:53 PM",
+        "salary": 136310,
+        "bonus": 5.413,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "10/8/1996",
+        "last_login_time": "12:53 PM",
+        "salary": 142561,
+        "bonus": 13.866,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Victor",
+        "gender": "Male",
+        "start_date": "4/11/1991",
+        "last_login_time": "7:44 AM",
+        "salary": 70817,
+        "bonus": 22.138,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Justin",
+        "gender": "Male",
+        "start_date": "12/6/1992",
+        "last_login_time": "5:58 PM",
+        "salary": 92782,
+        "bonus": 4.366,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Betty",
+        "gender": "Female",
+        "start_date": "6/12/2002",
+        "last_login_time": "3:59 AM",
+        "salary": 114896,
+        "bonus": 19.55,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Ralph",
+        "gender": "Male",
+        "start_date": "11/11/2004",
+        "last_login_time": "1:35 AM",
+        "salary": 81896,
+        "bonus": 4.232,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Edward",
+        "gender": "Male",
+        "start_date": "5/27/1985",
+        "last_login_time": "10:13 PM",
+        "salary": 110485,
+        "bonus": 12.995000000000001,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Denise",
+        "gender": "Female",
+        "start_date": "3/20/2009",
+        "last_login_time": "7:57 AM",
+        "salary": 115118,
+        "bonus": 10.108,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Debra",
+        "gender": "Female",
+        "start_date": "3/13/1998",
+        "last_login_time": "11:16 PM",
+        "salary": 48696,
+        "bonus": 9.75,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Henry",
+        "gender": "Male",
+        "start_date": "2/6/1995",
+        "last_login_time": "8:34 AM",
+        "salary": 99258,
+        "bonus": 15.585,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "3/27/2007",
+        "last_login_time": "1:44 AM",
+        "salary": 90730,
+        "bonus": 7.491,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "8/6/1995",
+        "last_login_time": "1:58 PM",
+        "salary": 100308,
+        "bonus": 18.677,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Stephanie",
+        "gender": "Female",
+        "start_date": "3/24/1983",
+        "last_login_time": "11:15 AM",
+        "salary": 60141,
+        "bonus": 13.218,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Roy",
+        "gender": "Male",
+        "start_date": "9/23/2004",
+        "last_login_time": "1:31 PM",
+        "salary": 101941,
+        "bonus": 8.45,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "3/3/1982",
+        "last_login_time": "8:26 AM",
+        "salary": 66526,
+        "bonus": 5.81,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Thomas",
+        "gender": "Male",
+        "start_date": "4/6/2011",
+        "last_login_time": "1:04 PM",
+        "salary": 113235,
+        "bonus": 9.554,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Fred",
+        "gender": "Male",
+        "start_date": "2/20/1980",
+        "last_login_time": "2:25 AM",
+        "salary": 74129,
+        "bonus": 23.225,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Nicholas",
+        "gender": "Male",
+        "start_date": "4/12/1994",
+        "last_login_time": "8:21 PM",
+        "salary": 84669,
+        "bonus": 1.113,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Howard",
+        "gender": "Male",
+        "start_date": "10/5/1982",
+        "last_login_time": "7:22 AM",
+        "salary": 107490,
+        "bonus": 5.46,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Debra",
+        "gender": "Female",
+        "start_date": "2/22/1994",
+        "last_login_time": "10:25 PM",
+        "salary": 114250,
+        "bonus": 18.456,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Christine",
+        "gender": "Female",
+        "start_date": "7/3/1989",
+        "last_login_time": "4:01 AM",
+        "salary": 94345,
+        "bonus": 16.996000000000002,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Betty",
+        "gender": "Female",
+        "start_date": "6/28/2005",
+        "last_login_time": "6:03 PM",
+        "salary": 51613,
+        "bonus": 17.984,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "11/8/2000",
+        "last_login_time": "7:35 PM",
+        "salary": 105946,
+        "bonus": 6.139,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Kevin",
+        "gender": "Male",
+        "start_date": "7/12/1997",
+        "last_login_time": "2:07 AM",
+        "salary": 46080,
+        "bonus": 14.635,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "3/11/2009",
+        "last_login_time": "3:43 AM",
+        "salary": 117281,
+        "bonus": 1.612,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Brenda",
+        "gender": "Female",
+        "start_date": "10/6/2005",
+        "last_login_time": "9:33 PM",
+        "salary": 141521,
+        "bonus": 9.337,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Judy",
+        "gender": "Female",
+        "start_date": "9/16/1997",
+        "last_login_time": "12:10 AM",
+        "salary": 65931,
+        "bonus": 7.304,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "2/2/1984",
+        "last_login_time": "10:13 AM",
+        "salary": 79989,
+        "bonus": 10.985,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Lois",
+        "gender": "Female",
+        "start_date": "11/9/2011",
+        "last_login_time": "7:06 AM",
+        "salary": 157183,
+        "bonus": 9.999,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Jessica",
+        "gender": "Female",
+        "start_date": "9/27/1985",
+        "last_login_time": "1:35 PM",
+        "salary": 85145,
+        "bonus": 6.388,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Tammy",
+        "gender": "Female",
+        "start_date": "11/11/1984",
+        "last_login_time": "10:30 AM",
+        "salary": 142839,
+        "bonus": 17.463,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Jesse",
+        "gender": "Male",
+        "start_date": "10/25/1999",
+        "last_login_time": "3:35 PM",
+        "salary": 118733,
+        "bonus": 14.653,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Virginia",
+        "gender": "Female",
+        "start_date": "10/20/1999",
+        "last_login_time": "6:23 AM",
+        "salary": 46905,
+        "bonus": 24.154,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Jesse",
+        "gender": "Male",
+        "start_date": "3/2/1981",
+        "last_login_time": "7:26 PM",
+        "salary": 79582,
+        "bonus": 8.873000000000001,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Daniel",
+        "gender": "Male",
+        "start_date": "9/15/2007",
+        "last_login_time": "10:16 PM",
+        "salary": 133811,
+        "bonus": 7.664,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Emily",
+        "gender": "Female",
+        "start_date": "1/13/1988",
+        "last_login_time": "6:42 AM",
+        "salary": 46711,
+        "bonus": 19.028,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "James",
+        "gender": "Male",
+        "start_date": "7/11/2015",
+        "last_login_time": "8:52 PM",
+        "salary": 72257,
+        "bonus": 18.023,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "8/12/1981",
+        "last_login_time": "12:05 AM",
+        "salary": 56930,
+        "bonus": 18.702,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Margaret",
+        "gender": "Female",
+        "start_date": "2/6/1993",
+        "last_login_time": "1:05 PM",
+        "salary": 125220,
+        "bonus": 8.733,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Mark",
+        "gender": "Male",
+        "start_date": "4/1/1984",
+        "last_login_time": "1:21 PM",
+        "salary": 131477,
+        "bonus": 17.44,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "9/26/1981",
+        "last_login_time": "2:23 AM",
+        "salary": 86386,
+        "bonus": 7.936999999999999,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Cheryl",
+        "gender": "Female",
+        "start_date": "9/8/2009",
+        "last_login_time": "10:16 AM",
+        "salary": 91308,
+        "bonus": 2.196,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Benjamin",
+        "gender": "Male",
+        "start_date": "9/11/1984",
+        "last_login_time": "6:37 AM",
+        "salary": 84810,
+        "bonus": 20.794,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Harold",
+        "gender": "Male",
+        "start_date": "2/20/1990",
+        "last_login_time": "11:00 PM",
+        "salary": 76775,
+        "bonus": 2.158,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Gerald",
+        "gender": "Male",
+        "start_date": "4/16/2001",
+        "last_login_time": "10:09 PM",
+        "salary": 131604,
+        "bonus": 1.923,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Judy",
+        "gender": "Female",
+        "start_date": "7/1/1991",
+        "last_login_time": "2:33 AM",
+        "salary": 119510,
+        "bonus": 13.457,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "10/3/2013",
+        "last_login_time": "8:05 PM",
+        "salary": 123711,
+        "bonus": 15.966,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "12/18/2013",
+        "last_login_time": "3:09 PM",
+        "salary": 132381,
+        "bonus": 13.34,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Roy",
+        "gender": "Male",
+        "start_date": "8/6/2006",
+        "last_login_time": "7:52 AM",
+        "salary": 148225,
+        "bonus": 6.841,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Jacqueline",
+        "gender": "Female",
+        "start_date": "11/25/1981",
+        "last_login_time": "3:01 PM",
+        "salary": 145988,
+        "bonus": 23.243,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Julie",
+        "gender": "Female",
+        "start_date": "3/23/1986",
+        "last_login_time": "9:26 AM",
+        "salary": 56926,
+        "bonus": 12.507,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Douglas",
+        "gender": "Male",
+        "start_date": "1/8/2002",
+        "last_login_time": "6:42 PM",
+        "salary": 41428,
+        "bonus": 19.372,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "12/16/1990",
+        "last_login_time": "2:20 AM",
+        "salary": 125658,
+        "bonus": 3.041,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "12/10/1988",
+        "last_login_time": "8:27 PM",
+        "salary": 76707,
+        "bonus": 11.030999999999999,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Russell",
+        "gender": "Male",
+        "start_date": "1/2/2005",
+        "last_login_time": "1:48 AM",
+        "salary": 60388,
+        "bonus": 22.885,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Jeffrey",
+        "gender": "Male",
+        "start_date": "6/18/1997",
+        "last_login_time": "8:01 PM",
+        "salary": 55150,
+        "bonus": 12.075,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Samuel",
+        "gender": "Male",
+        "start_date": "12/19/1991",
+        "last_login_time": "2:54 AM",
+        "salary": 86076,
+        "bonus": 5.319,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Randy",
+        "gender": "Male",
+        "start_date": "3/16/2014",
+        "last_login_time": "6:24 PM",
+        "salary": 135119,
+        "bonus": 12.887,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Evelyn",
+        "gender": "Female",
+        "start_date": "9/3/1983",
+        "last_login_time": "1:58 PM",
+        "salary": 46759,
+        "bonus": 17.269,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Fred",
+        "gender": "Male",
+        "start_date": "2/13/1987",
+        "last_login_time": "2:15 PM",
+        "salary": 131723,
+        "bonus": 18.645,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Shirley",
+        "gender": "Female",
+        "start_date": "6/8/1986",
+        "last_login_time": "2:25 AM",
+        "salary": 110061,
+        "bonus": 12.494,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "5/23/2011",
+        "last_login_time": "4:14 PM",
+        "salary": 85074,
+        "bonus": 6.844,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Robert",
+        "gender": "Male",
+        "start_date": "11/18/2014",
+        "last_login_time": "5:00 AM",
+        "salary": 85799,
+        "bonus": 24.93,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Mark",
+        "gender": "Male",
+        "start_date": "1/22/2007",
+        "last_login_time": "2:37 PM",
+        "salary": 85150,
+        "bonus": 12.182,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Earl",
+        "gender": "Male",
+        "start_date": "1/5/2000",
+        "last_login_time": "5:46 PM",
+        "salary": 101344,
+        "bonus": 4.035,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Richard",
+        "gender": "Male",
+        "start_date": "9/27/2005",
+        "last_login_time": "1:41 AM",
+        "salary": 86326,
+        "bonus": 15.717,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Michael",
+        "gender": "Male",
+        "start_date": "11/22/1991",
+        "last_login_time": "12:57 PM",
+        "salary": 108753,
+        "bonus": 16.443,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "5/12/2009",
+        "last_login_time": "2:14 PM",
+        "salary": 123060,
+        "bonus": 2.846,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Carlos",
+        "gender": "Male",
+        "start_date": "9/19/2007",
+        "last_login_time": "1:01 AM",
+        "salary": 87327,
+        "bonus": 11.58,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "10/20/2011",
+        "last_login_time": "10:09 PM",
+        "salary": 62666,
+        "bonus": 15.247,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Ronald",
+        "gender": "Male",
+        "start_date": "2/24/2009",
+        "last_login_time": "2:09 PM",
+        "salary": 106633,
+        "bonus": 4.99,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Scott",
+        "gender": "Male",
+        "start_date": "5/12/2009",
+        "last_login_time": "4:36 AM",
+        "salary": 58248,
+        "bonus": 8.914,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "11/21/2006",
+        "last_login_time": "8:30 AM",
+        "salary": 93706,
+        "bonus": 6.96,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "James",
+        "gender": "Male",
+        "start_date": "11/22/1998",
+        "last_login_time": "3:48 AM",
+        "salary": 84086,
+        "bonus": 5.778,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Lori",
+        "gender": "Female",
+        "start_date": "3/31/1988",
+        "last_login_time": "10:59 PM",
+        "salary": 95389,
+        "bonus": 19.223,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Philip",
+        "gender": "Male",
+        "start_date": "8/2/1989",
+        "last_login_time": "11:21 AM",
+        "salary": 129968,
+        "bonus": 24.897,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Phyllis",
+        "gender": "Female",
+        "start_date": "11/24/2005",
+        "last_login_time": "11:57 PM",
+        "salary": 140347,
+        "bonus": 13.723,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "12/3/2012",
+        "last_login_time": "11:03 PM",
+        "salary": 74287,
+        "bonus": 15.751,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Elizabeth",
+        "gender": "Female",
+        "start_date": "11/10/2005",
+        "last_login_time": "4:56 AM",
+        "salary": 116406,
+        "bonus": 1.782,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Judy",
+        "gender": "Female",
+        "start_date": "2/1/1990",
+        "last_login_time": "3:32 PM",
+        "salary": 38092,
+        "bonus": 10.668,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Russell",
+        "gender": "Male",
+        "start_date": "8/13/2014",
+        "last_login_time": "3:51 PM",
+        "salary": 121160,
+        "bonus": 12.843,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Scott",
+        "gender": "Male",
+        "start_date": "12/17/2011",
+        "last_login_time": "3:45 AM",
+        "salary": 90429,
+        "bonus": 9.45,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Sarah",
+        "gender": "Female",
+        "start_date": "5/22/1994",
+        "last_login_time": "7:06 AM",
+        "salary": 74207,
+        "bonus": 7.824,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Susan",
+        "gender": "Female",
+        "start_date": "9/25/2004",
+        "last_login_time": "1:30 AM",
+        "salary": 90688,
+        "bonus": 18.892,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Margaret",
+        "gender": "Female",
+        "start_date": "5/5/2014",
+        "last_login_time": "6:01 AM",
+        "salary": 55044,
+        "bonus": 9.078,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Joshua",
+        "gender": "Male",
+        "start_date": "11/9/2009",
+        "last_login_time": "6:32 AM",
+        "salary": 72893,
+        "bonus": 14.555,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Juan",
+        "gender": "Male",
+        "start_date": "4/16/2002",
+        "last_login_time": "11:09 PM",
+        "salary": 97364,
+        "bonus": 8.595,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "12/17/1982",
+        "last_login_time": "12:10 PM",
+        "salary": 147183,
+        "bonus": 13.748,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Mary",
+        "gender": "Female",
+        "start_date": "10/18/2009",
+        "last_login_time": "6:32 PM",
+        "salary": 87721,
+        "bonus": 17.484,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "7/15/2009",
+        "last_login_time": "10:12 PM",
+        "salary": 144001,
+        "bonus": 7.194,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Larry",
+        "gender": "Male",
+        "start_date": "8/27/2003",
+        "last_login_time": "1:00 PM",
+        "salary": 91133,
+        "bonus": 10.14,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Kenneth",
+        "gender": "Male",
+        "start_date": "4/13/1999",
+        "last_login_time": "10:28 PM",
+        "salary": 81839,
+        "bonus": 17.072,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Brandon",
+        "gender": "Male",
+        "start_date": "10/16/2015",
+        "last_login_time": "2:44 AM",
+        "salary": 112548,
+        "bonus": 9.664,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Stephen",
+        "gender": "Male",
+        "start_date": "4/9/1987",
+        "last_login_time": "12:47 PM",
+        "salary": 121249,
+        "bonus": 10.574,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Russell",
+        "gender": "Male",
+        "start_date": "10/30/1994",
+        "last_login_time": "5:46 AM",
+        "salary": 114334,
+        "bonus": 14.669,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Scott",
+        "gender": "Male",
+        "start_date": "8/3/1996",
+        "last_login_time": "1:50 AM",
+        "salary": 74172,
+        "bonus": 10.894,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Carlos",
+        "gender": "Male",
+        "start_date": "7/28/2010",
+        "last_login_time": "3:08 PM",
+        "salary": 50167,
+        "bonus": 7.362,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Jack",
+        "gender": "Male",
+        "start_date": "12/24/1980",
+        "last_login_time": "10:58 PM",
+        "salary": 106995,
+        "bonus": 20.723,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Debra",
+        "gender": "Female",
+        "start_date": "1/19/2010",
+        "last_login_time": "8:48 AM",
+        "salary": 70492,
+        "bonus": 13.895,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Phyllis",
+        "gender": "Female",
+        "start_date": "1/15/1995",
+        "last_login_time": "5:27 AM",
+        "salary": 125881,
+        "bonus": 21.697,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Robert",
+        "gender": "Male",
+        "start_date": "10/29/1994",
+        "last_login_time": "4:26 AM",
+        "salary": 123294,
+        "bonus": 24.894,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "9/19/1989",
+        "last_login_time": "7:40 PM",
+        "salary": 141045,
+        "bonus": 11.312,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "8/15/1989",
+        "last_login_time": "9:14 AM",
+        "salary": 150502,
+        "bonus": 9.989,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Ralph",
+        "gender": "Male",
+        "start_date": "10/27/2010",
+        "last_login_time": "10:28 AM",
+        "salary": 116310,
+        "bonus": 4.03,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Robin",
+        "gender": "Female",
+        "start_date": "1/8/1998",
+        "last_login_time": "2:12 AM",
+        "salary": 121163,
+        "bonus": 5.025,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "11/25/2001",
+        "last_login_time": "9:55 PM",
+        "salary": 103753,
+        "bonus": 7.094,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "7/6/2002",
+        "last_login_time": "3:57 PM",
+        "salary": 73494,
+        "bonus": 19.385,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "1/13/2005",
+        "last_login_time": "9:00 AM",
+        "salary": 126693,
+        "bonus": 13.835,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Doris",
+        "gender": "Female",
+        "start_date": "7/29/1992",
+        "last_login_time": "6:40 PM",
+        "salary": 95215,
+        "bonus": 7.425,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Kathryn",
+        "gender": "Female",
+        "start_date": "6/9/1988",
+        "last_login_time": "9:29 AM",
+        "salary": 86439,
+        "bonus": 12.799,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Norma",
+        "gender": "Female",
+        "start_date": "4/16/1996",
+        "last_login_time": "5:40 AM",
+        "salary": 48872,
+        "bonus": 9.302,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Craig",
+        "gender": "Male",
+        "start_date": "2/8/1984",
+        "last_login_time": "4:45 AM",
+        "salary": 113506,
+        "bonus": 24.642,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Sharon",
+        "gender": "Female",
+        "start_date": "3/9/2014",
+        "last_login_time": "4:39 PM",
+        "salary": 91522,
+        "bonus": 12.564,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Mary",
+        "gender": "Female",
+        "start_date": "8/22/2010",
+        "last_login_time": "8:03 AM",
+        "salary": 52214,
+        "bonus": 17.538,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Joe",
+        "gender": "Male",
+        "start_date": "12/5/2010",
+        "last_login_time": "4:20 PM",
+        "salary": 154082,
+        "bonus": 1.62,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "5/29/1994",
+        "last_login_time": "6:24 AM",
+        "salary": 57885,
+        "bonus": 19.276,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Ernest",
+        "gender": "Male",
+        "start_date": "8/14/2012",
+        "last_login_time": "11:25 AM",
+        "salary": 136232,
+        "bonus": 6.191,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Kevin",
+        "gender": "Male",
+        "start_date": "6/23/1981",
+        "last_login_time": "8:26 PM",
+        "salary": 134598,
+        "bonus": 16.698999999999998,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jacqueline",
+        "gender": "Female",
+        "start_date": "2/11/2007",
+        "last_login_time": "2:01 AM",
+        "salary": 66604,
+        "bonus": 19.609,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Johnny",
+        "gender": "Male",
+        "start_date": "9/14/1992",
+        "last_login_time": "8:21 AM",
+        "salary": 125194,
+        "bonus": 5.861,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Gary",
+        "gender": "Male",
+        "start_date": "8/18/2011",
+        "last_login_time": "8:12 AM",
+        "salary": 59101,
+        "bonus": 11.9,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Julia",
+        "gender": "Female",
+        "start_date": "3/2/1982",
+        "last_login_time": "12:52 PM",
+        "salary": 46403,
+        "bonus": 2.664,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Dorothy",
+        "gender": "Female",
+        "start_date": "11/5/2013",
+        "last_login_time": "10:50 PM",
+        "salary": 150136,
+        "bonus": 3.12,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Justin",
+        "gender": "Male",
+        "start_date": "5/22/1986",
+        "last_login_time": "6:30 AM",
+        "salary": 131508,
+        "bonus": 19.334,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Kevin",
+        "gender": "Male",
+        "start_date": "11/20/1986",
+        "last_login_time": "6:59 PM",
+        "salary": 89906,
+        "bonus": 18.021,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Victor",
+        "gender": "Male",
+        "start_date": "9/24/2005",
+        "last_login_time": "12:04 PM",
+        "salary": 133144,
+        "bonus": 16.261,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Deborah",
+        "gender": "Female",
+        "start_date": "11/25/1980",
+        "last_login_time": "4:33 AM",
+        "salary": 46953,
+        "bonus": 22.436,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "3/16/2016",
+        "last_login_time": "2:45 PM",
+        "salary": 144408,
+        "bonus": 3.56,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Frank",
+        "gender": "Male",
+        "start_date": "1/10/1981",
+        "last_login_time": "1:30 PM",
+        "salary": 81853,
+        "bonus": 8.037,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Christopher",
+        "gender": "Male",
+        "start_date": "5/13/1999",
+        "last_login_time": "10:48 AM",
+        "salary": 78028,
+        "bonus": 7.869,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "5/28/2015",
+        "last_login_time": "8:40 AM",
+        "salary": 149903,
+        "bonus": 10.629999999999999,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Charles",
+        "gender": "Male",
+        "start_date": "12/16/1999",
+        "last_login_time": "8:28 PM",
+        "salary": 104014,
+        "bonus": 12.077,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Wanda",
+        "gender": "Female",
+        "start_date": "7/20/2008",
+        "last_login_time": "1:44 PM",
+        "salary": 75362,
+        "bonus": 7.132,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Billy",
+        "gender": "Male",
+        "start_date": "12/1/2006",
+        "last_login_time": "3:32 PM",
+        "salary": 154709,
+        "bonus": 10.069,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Kathryn",
+        "gender": "Female",
+        "start_date": "8/29/2007",
+        "last_login_time": "6:10 AM",
+        "salary": 63061,
+        "bonus": 11.864,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Denise",
+        "gender": "Female",
+        "start_date": "3/18/2001",
+        "last_login_time": "12:02 AM",
+        "salary": 46697,
+        "bonus": 11.196,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Nicholas",
+        "gender": "Male",
+        "start_date": "3/1/2013",
+        "last_login_time": "9:26 PM",
+        "salary": 111036,
+        "bonus": 2.826,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Louise",
+        "gender": "Female",
+        "start_date": "5/13/2003",
+        "last_login_time": "9:47 AM",
+        "salary": 56666,
+        "bonus": 1.886,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Julie",
+        "gender": "Female",
+        "start_date": "4/23/1998",
+        "last_login_time": "5:52 AM",
+        "salary": 83437,
+        "bonus": 2.518,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "5/8/1987",
+        "last_login_time": "6:19 PM",
+        "salary": 96318,
+        "bonus": 18.492,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Cheryl",
+        "gender": "Female",
+        "start_date": "8/16/1994",
+        "last_login_time": "8:33 AM",
+        "salary": 77150,
+        "bonus": 15.85,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Gregory",
+        "gender": "Male",
+        "start_date": "5/15/2009",
+        "last_login_time": "3:52 PM",
+        "salary": 152208,
+        "bonus": 11.204,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Wayne",
+        "gender": "Male",
+        "start_date": "1/30/1992",
+        "last_login_time": "3:01 PM",
+        "salary": 81183,
+        "bonus": 22.066,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Beverly",
+        "gender": "Female",
+        "start_date": "11/30/2005",
+        "last_login_time": "2:57 AM",
+        "salary": 117163,
+        "bonus": 3.665,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Willie",
+        "gender": "Male",
+        "start_date": "8/22/2009",
+        "last_login_time": "1:03 PM",
+        "salary": 55038,
+        "bonus": 24.691,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Scott",
+        "gender": "Male",
+        "start_date": "11/17/2012",
+        "last_login_time": "2:47 PM",
+        "salary": 156812,
+        "bonus": 1.965,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Ruth",
+        "gender": "Female",
+        "start_date": "10/24/2000",
+        "last_login_time": "4:13 AM",
+        "salary": 79579,
+        "bonus": 18.029,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Patricia",
+        "gender": "Female",
+        "start_date": "1/9/2015",
+        "last_login_time": "4:16 AM",
+        "salary": 121232,
+        "bonus": 21.624,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Tina",
+        "gender": "Female",
+        "start_date": "1/17/2005",
+        "last_login_time": "9:11 AM",
+        "salary": 88276,
+        "bonus": 19.247999999999998,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "8/9/2001",
+        "last_login_time": "3:56 AM",
+        "salary": 43354,
+        "bonus": 18.945999999999998,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Craig",
+        "gender": "Male",
+        "start_date": "4/14/1996",
+        "last_login_time": "9:17 AM",
+        "salary": 125556,
+        "bonus": 12.996,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jose",
+        "gender": "Male",
+        "start_date": "7/11/2002",
+        "last_login_time": "9:15 AM",
+        "salary": 59862,
+        "bonus": 8.269,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Lawrence",
+        "gender": "Male",
+        "start_date": "5/13/2005",
+        "last_login_time": "1:25 AM",
+        "salary": 74640,
+        "bonus": 23.641,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Helen",
+        "gender": "Female",
+        "start_date": "10/31/1997",
+        "last_login_time": "2:43 AM",
+        "salary": 52875,
+        "bonus": 9.187999999999999,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Walter",
+        "gender": "Male",
+        "start_date": "8/4/2007",
+        "last_login_time": "1:59 PM",
+        "salary": 58789,
+        "bonus": 10.461,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Janice",
+        "gender": "Female",
+        "start_date": "6/28/1997",
+        "last_login_time": "1:48 PM",
+        "salary": 146032,
+        "bonus": 10.696,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Stephen",
+        "gender": "Male",
+        "start_date": "5/9/2015",
+        "last_login_time": "7:07 PM",
+        "salary": 151958,
+        "bonus": 9.078,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Ryan",
+        "gender": "Male",
+        "start_date": "7/20/1993",
+        "last_login_time": "10:18 PM",
+        "salary": 139917,
+        "bonus": 16.466,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Sharon",
+        "gender": "Female",
+        "start_date": "3/12/2002",
+        "last_login_time": "6:32 AM",
+        "salary": 147635,
+        "bonus": 19.692999999999998,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Joshua",
+        "gender": "Male",
+        "start_date": "7/10/1984",
+        "last_login_time": "7:22 PM",
+        "salary": 68230,
+        "bonus": 13.047,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "8/20/1992",
+        "last_login_time": "8:23 PM",
+        "salary": 124365,
+        "bonus": 13.457,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jonathan",
+        "gender": "Male",
+        "start_date": "8/15/2002",
+        "last_login_time": "12:01 AM",
+        "salary": 104749,
+        "bonus": 16.364,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Stephanie",
+        "gender": "Female",
+        "start_date": "11/26/1992",
+        "last_login_time": "12:54 AM",
+        "salary": 132121,
+        "bonus": 7.937,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "10/25/1996",
+        "last_login_time": "12:59 PM",
+        "salary": 143541,
+        "bonus": 13.461,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Michael",
+        "gender": "Male",
+        "start_date": "5/22/2011",
+        "last_login_time": "10:42 AM",
+        "salary": 73354,
+        "bonus": 23.357,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Joe",
+        "gender": "Male",
+        "start_date": "4/14/2000",
+        "last_login_time": "3:14 PM",
+        "salary": 50645,
+        "bonus": 16.119,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Howard",
+        "gender": "Male",
+        "start_date": "4/9/2012",
+        "last_login_time": "6:36 AM",
+        "salary": 37984,
+        "bonus": 7.021,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Cheryl",
+        "gender": "Female",
+        "start_date": "12/3/2014",
+        "last_login_time": "9:27 AM",
+        "salary": 71751,
+        "bonus": 20.918,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Robert",
+        "gender": "Male",
+        "start_date": "3/11/2007",
+        "last_login_time": "11:20 AM",
+        "salary": 135882,
+        "bonus": 24.944,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Sharon",
+        "gender": "Female",
+        "start_date": "7/1/2011",
+        "last_login_time": "9:50 AM",
+        "salary": 56007,
+        "bonus": 19.731,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Judith",
+        "gender": "Female",
+        "start_date": "11/23/2007",
+        "last_login_time": "1:22 PM",
+        "salary": 117055,
+        "bonus": 12.461,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Jerry",
+        "gender": "Male",
+        "start_date": "1/30/1995",
+        "last_login_time": "7:51 PM",
+        "salary": 121357,
+        "bonus": 23.845,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Craig",
+        "gender": "Male",
+        "start_date": "11/1/2005",
+        "last_login_time": "11:31 PM",
+        "salary": 44857,
+        "bonus": 18.266,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Barbara",
+        "gender": "Female",
+        "start_date": "3/21/2002",
+        "last_login_time": "8:02 AM",
+        "salary": 57322,
+        "bonus": 7.25,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Eugene",
+        "gender": "Male",
+        "start_date": "5/24/1984",
+        "last_login_time": "10:54 AM",
+        "salary": 81077,
+        "bonus": 7.117,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Johnny",
+        "gender": "Male",
+        "start_date": "2/26/2016",
+        "last_login_time": "7:39 PM",
+        "salary": 86394,
+        "bonus": 5.437,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Benjamin",
+        "gender": "Male",
+        "start_date": "5/5/2013",
+        "last_login_time": "3:28 PM",
+        "salary": 114356,
+        "bonus": 12.123000000000001,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Diana",
+        "gender": "Female",
+        "start_date": "6/13/1994",
+        "last_login_time": "4:21 PM",
+        "salary": 41831,
+        "bonus": 9.548,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Christine",
+        "gender": "Female",
+        "start_date": "2/1/2003",
+        "last_login_time": "1:11 PM",
+        "salary": 72613,
+        "bonus": 16.125999999999998,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Sean",
+        "gender": "Male",
+        "start_date": "2/11/2013",
+        "last_login_time": "7:07 PM",
+        "salary": 42748,
+        "bonus": 14.765,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Sarah",
+        "gender": "Female",
+        "start_date": "11/3/1980",
+        "last_login_time": "2:47 PM",
+        "salary": 37259,
+        "bonus": 6.763,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Roger",
+        "gender": "Male",
+        "start_date": "8/3/2015",
+        "last_login_time": "4:56 PM",
+        "salary": 135033,
+        "bonus": 4.887,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Donald",
+        "gender": "Male",
+        "start_date": "7/14/1995",
+        "last_login_time": "7:51 AM",
+        "salary": 116472,
+        "bonus": 6.499,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "11/3/2015",
+        "last_login_time": "12:11 AM",
+        "salary": 113684,
+        "bonus": 18.654,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Scott",
+        "gender": "Male",
+        "start_date": "11/23/1996",
+        "last_login_time": "7:36 PM",
+        "salary": 96111,
+        "bonus": 20.592,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Frank",
+        "gender": "Male",
+        "start_date": "4/27/2003",
+        "last_login_time": "12:04 PM",
+        "salary": 140303,
+        "bonus": 22.07,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Joe",
+        "gender": "Male",
+        "start_date": "7/4/1983",
+        "last_login_time": "7:32 AM",
+        "salary": 72161,
+        "bonus": 8.13,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Larry",
+        "gender": "Male",
+        "start_date": "1/8/1999",
+        "last_login_time": "2:05 AM",
+        "salary": 97370,
+        "bonus": 15.458,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "4/12/1992",
+        "last_login_time": "8:26 PM",
+        "salary": 76224,
+        "bonus": 15.979,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Ruth",
+        "gender": "Female",
+        "start_date": "12/12/1996",
+        "last_login_time": "10:07 AM",
+        "salary": 107915,
+        "bonus": 3.997,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Diana",
+        "gender": "Female",
+        "start_date": "1/19/1995",
+        "last_login_time": "12:37 AM",
+        "salary": 96883,
+        "bonus": 18.003,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Raymond",
+        "gender": "Male",
+        "start_date": "2/16/2009",
+        "last_login_time": "10:38 PM",
+        "salary": 37812,
+        "bonus": 8.178,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Catherine",
+        "gender": "Female",
+        "start_date": "8/31/2013",
+        "last_login_time": "7:24 PM",
+        "salary": 68047,
+        "bonus": 14.858,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Diane",
+        "gender": "Female",
+        "start_date": "7/5/1982",
+        "last_login_time": "4:56 PM",
+        "salary": 134889,
+        "bonus": 15.026,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Steve",
+        "gender": "Male",
+        "start_date": "8/22/1995",
+        "last_login_time": "6:58 AM",
+        "salary": 77780,
+        "bonus": 9.54,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Barbara",
+        "gender": "Female",
+        "start_date": "3/22/2004",
+        "last_login_time": "8:11 AM",
+        "salary": 144677,
+        "bonus": 13.696,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Christopher",
+        "gender": "Male",
+        "start_date": "4/23/2014",
+        "last_login_time": "7:52 AM",
+        "salary": 82401,
+        "bonus": 12.251999999999999,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Kathleen",
+        "gender": "Female",
+        "start_date": "6/13/2014",
+        "last_login_time": "9:16 AM",
+        "salary": 35575,
+        "bonus": 19.595,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Virginia",
+        "gender": "Female",
+        "start_date": "5/2/2010",
+        "last_login_time": "9:10 PM",
+        "salary": 133649,
+        "bonus": 10.154,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Lisa",
+        "gender": "Female",
+        "start_date": "2/26/2005",
+        "last_login_time": "6:33 PM",
+        "salary": 48078,
+        "bonus": 10.28,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Earl",
+        "gender": "Male",
+        "start_date": "2/11/2014",
+        "last_login_time": "9:03 PM",
+        "salary": 52620,
+        "bonus": 18.773,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Louise",
+        "gender": "Female",
+        "start_date": "9/18/1981",
+        "last_login_time": "5:47 AM",
+        "salary": 91462,
+        "bonus": 13.205,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "8/26/1982",
+        "last_login_time": "9:47 AM",
+        "salary": 156589,
+        "bonus": 4.905,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "9/14/1991",
+        "last_login_time": "1:08 PM",
+        "salary": 61633,
+        "bonus": 13.472,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Justin",
+        "gender": "Male",
+        "start_date": "9/6/1999",
+        "last_login_time": "10:30 AM",
+        "salary": 72454,
+        "bonus": 3.459,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "5/1/1999",
+        "last_login_time": "3:36 AM",
+        "salary": 157362,
+        "bonus": 7.851,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Roger",
+        "gender": "Male",
+        "start_date": "7/3/2010",
+        "last_login_time": "5:11 PM",
+        "salary": 115689,
+        "bonus": 13.32,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Joseph",
+        "gender": "Male",
+        "start_date": "9/10/1992",
+        "last_login_time": "6:50 PM",
+        "salary": 112555,
+        "bonus": 3.672,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Evelyn",
+        "gender": "Female",
+        "start_date": "9/22/1998",
+        "last_login_time": "7:55 PM",
+        "salary": 51525,
+        "bonus": 15.366,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Janice",
+        "gender": "Female",
+        "start_date": "1/2/1984",
+        "last_login_time": "9:06 PM",
+        "salary": 51190,
+        "bonus": 3.311,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Sara",
+        "gender": "Female",
+        "start_date": "2/25/1980",
+        "last_login_time": "10:50 PM",
+        "salary": 75484,
+        "bonus": 8.186,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Gregory",
+        "gender": "Male",
+        "start_date": "6/18/1984",
+        "last_login_time": "3:46 AM",
+        "salary": 92726,
+        "bonus": 16.304,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Philip",
+        "gender": "Male",
+        "start_date": "7/18/1985",
+        "last_login_time": "6:36 AM",
+        "salary": 122319,
+        "bonus": 24.122,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Barbara",
+        "gender": "Female",
+        "start_date": "9/2/1991",
+        "last_login_time": "3:41 PM",
+        "salary": 137297,
+        "bonus": 11.905,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Jane",
+        "gender": "Female",
+        "start_date": "6/1/1994",
+        "last_login_time": "8:39 AM",
+        "salary": 42424,
+        "bonus": 23.115,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "8/18/1985",
+        "last_login_time": "4:34 AM",
+        "salary": 51431,
+        "bonus": 18.295,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "12/3/2009",
+        "last_login_time": "10:24 AM",
+        "salary": 106610,
+        "bonus": 2.097,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Kathleen",
+        "gender": "Female",
+        "start_date": "9/20/1996",
+        "last_login_time": "3:45 PM",
+        "salary": 71430,
+        "bonus": 13.572,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Randy",
+        "gender": "Male",
+        "start_date": "5/2/2002",
+        "last_login_time": "7:39 PM",
+        "salary": 86723,
+        "bonus": 19.842,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "8/9/2006",
+        "last_login_time": "11:24 AM",
+        "salary": 87145,
+        "bonus": 22.33,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Johnny",
+        "gender": "Male",
+        "start_date": "1/8/1995",
+        "last_login_time": "1:35 PM",
+        "salary": 101124,
+        "bonus": 12.986,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Susan",
+        "gender": "Female",
+        "start_date": "4/18/1986",
+        "last_login_time": "9:31 AM",
+        "salary": 90829,
+        "bonus": 24.142,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "7/7/1980",
+        "last_login_time": "3:42 AM",
+        "salary": 101262,
+        "bonus": 11.773,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Kelly",
+        "gender": "Female",
+        "start_date": "8/16/1996",
+        "last_login_time": "3:09 AM",
+        "salary": 41427,
+        "bonus": 6.431,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Jonathan",
+        "gender": "Male",
+        "start_date": "4/6/1995",
+        "last_login_time": "10:38 PM",
+        "salary": 56993,
+        "bonus": 23.623,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Raymond",
+        "gender": "Male",
+        "start_date": "1/13/1996",
+        "last_login_time": "4:14 PM",
+        "salary": 114244,
+        "bonus": 21.69,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "John",
+        "gender": "Male",
+        "start_date": "1/22/1995",
+        "last_login_time": "12:17 AM",
+        "salary": 76077,
+        "bonus": 5.809,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Michael",
+        "gender": "Male",
+        "start_date": "7/30/1993",
+        "last_login_time": "5:35 PM",
+        "salary": 35013,
+        "bonus": 19.878999999999998,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Jerry",
+        "gender": "Male",
+        "start_date": "5/4/2003",
+        "last_login_time": "4:29 AM",
+        "salary": 98393,
+        "bonus": 16.393,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Harold",
+        "gender": "Male",
+        "start_date": "10/18/2010",
+        "last_login_time": "8:45 PM",
+        "salary": 75673,
+        "bonus": 1.187,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Ernest",
+        "gender": "Male",
+        "start_date": "1/28/1990",
+        "last_login_time": "12:08 AM",
+        "salary": 81919,
+        "bonus": 20.118000000000002,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Harry",
+        "gender": "Male",
+        "start_date": "11/19/1982",
+        "last_login_time": "11:25 AM",
+        "salary": 59277,
+        "bonus": 15.2,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Diane",
+        "gender": "Female",
+        "start_date": "2/2/1988",
+        "last_login_time": "6:14 PM",
+        "salary": 49501,
+        "bonus": 18.506,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jack",
+        "gender": "Male",
+        "start_date": "5/30/2012",
+        "last_login_time": "3:17 AM",
+        "salary": 80367,
+        "bonus": 18.266,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Shirley",
+        "gender": "Female",
+        "start_date": "4/16/1988",
+        "last_login_time": "11:09 AM",
+        "salary": 132156,
+        "bonus": 7.754,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "10/30/2004",
+        "last_login_time": "4:34 PM",
+        "salary": 56961,
+        "bonus": 12.585,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Cheryl",
+        "gender": "Female",
+        "start_date": "7/23/1982",
+        "last_login_time": "6:28 AM",
+        "salary": 108841,
+        "bonus": 8.945,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "5/23/1980",
+        "last_login_time": "3:19 AM",
+        "salary": 78226,
+        "bonus": 7.4190000000000005,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Sandra",
+        "gender": "Female",
+        "start_date": "4/24/1995",
+        "last_login_time": "7:14 PM",
+        "salary": 126931,
+        "bonus": 9.657,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Rachel",
+        "gender": "Female",
+        "start_date": "4/22/1988",
+        "last_login_time": "12:01 PM",
+        "salary": 110924,
+        "bonus": 12.808,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Justin",
+        "gender": "Male",
+        "start_date": "5/24/1981",
+        "last_login_time": "11:15 PM",
+        "salary": 78351,
+        "bonus": 20.221,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "11/23/2000",
+        "last_login_time": "5:06 AM",
+        "salary": 125574,
+        "bonus": 9.644,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Louis",
+        "gender": "Male",
+        "start_date": "4/15/2011",
+        "last_login_time": "5:02 AM",
+        "salary": 95198,
+        "bonus": 7.075,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Nancy",
+        "gender": "Female",
+        "start_date": "5/7/1985",
+        "last_login_time": "10:20 PM",
+        "salary": 131006,
+        "bonus": 3.512,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Mark",
+        "gender": "Male",
+        "start_date": "10/3/1984",
+        "last_login_time": "5:31 AM",
+        "salary": 105728,
+        "bonus": 6.752,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Teresa",
+        "gender": "Female",
+        "start_date": "6/24/1987",
+        "last_login_time": "7:37 PM",
+        "salary": 69740,
+        "bonus": 13.294,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Frances",
+        "gender": "Female",
+        "start_date": "7/21/2001",
+        "last_login_time": "2:34 AM",
+        "salary": 91996,
+        "bonus": 16.506,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Bruce",
+        "gender": "Male",
+        "start_date": "3/15/2013",
+        "last_login_time": "11:13 PM",
+        "salary": 151335,
+        "bonus": 15.427,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "5/20/1982",
+        "last_login_time": "9:14 AM",
+        "salary": 97691,
+        "bonus": 7.1419999999999995,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Mildred",
+        "gender": "Female",
+        "start_date": "2/21/1981",
+        "last_login_time": "3:30 AM",
+        "salary": 47266,
+        "bonus": 15.256,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "2/16/2010",
+        "last_login_time": "11:29 AM",
+        "salary": 103405,
+        "bonus": 20.91,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Eric",
+        "gender": "Male",
+        "start_date": "11/12/2004",
+        "last_login_time": "9:16 PM",
+        "salary": 65168,
+        "bonus": 16.512999999999998,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Edward",
+        "gender": "Male",
+        "start_date": "8/30/2001",
+        "last_login_time": "1:24 AM",
+        "salary": 83105,
+        "bonus": 6.083,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Kimberly",
+        "gender": "Female",
+        "start_date": "12/6/1986",
+        "last_login_time": "2:23 PM",
+        "salary": 47916,
+        "bonus": 12.929,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Kathy",
+        "gender": "Female",
+        "start_date": "1/14/2001",
+        "last_login_time": "5:11 AM",
+        "salary": 55682,
+        "bonus": 1.451,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Peter",
+        "gender": "Male",
+        "start_date": "11/24/1992",
+        "last_login_time": "5:43 PM",
+        "salary": 69297,
+        "bonus": 6.268,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Beverly",
+        "gender": "Female",
+        "start_date": "10/22/1990",
+        "last_login_time": "2:45 PM",
+        "salary": 69070,
+        "bonus": 19.064,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Ralph",
+        "gender": "Male",
+        "start_date": "3/7/2012",
+        "last_login_time": "2:25 AM",
+        "salary": 81215,
+        "bonus": 13.4,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Justin",
+        "gender": "Male",
+        "start_date": "8/10/1997",
+        "last_login_time": "11:00 PM",
+        "salary": 128036,
+        "bonus": 23.824,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "6/23/2005",
+        "last_login_time": "11:03 AM",
+        "salary": 99780,
+        "bonus": 8.999,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Irene",
+        "gender": "Female",
+        "start_date": "11/29/2006",
+        "last_login_time": "2:14 PM",
+        "salary": 135018,
+        "bonus": 9.601,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "11/26/1997",
+        "last_login_time": "8:22 AM",
+        "salary": 133033,
+        "bonus": 17.2,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "6/29/2015",
+        "last_login_time": "6:38 AM",
+        "salary": 92408,
+        "bonus": 8.701,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Debra",
+        "gender": "Female",
+        "start_date": "3/12/1983",
+        "last_login_time": "12:19 PM",
+        "salary": 74911,
+        "bonus": 24.513,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Michael",
+        "gender": "Male",
+        "start_date": "7/13/1988",
+        "last_login_time": "1:48 PM",
+        "salary": 47079,
+        "bonus": 7.617,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Rebecca",
+        "gender": "Female",
+        "start_date": "2/23/1990",
+        "last_login_time": "3:21 PM",
+        "salary": 134673,
+        "bonus": 11.878,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "7/2/1984",
+        "last_login_time": "4:06 PM",
+        "salary": 92430,
+        "bonus": 7.9239999999999995,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Wayne",
+        "gender": "Male",
+        "start_date": "9/2/2009",
+        "last_login_time": "1:37 AM",
+        "salary": 126956,
+        "bonus": 23.396,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Frances",
+        "gender": "Female",
+        "start_date": "11/12/1996",
+        "last_login_time": "6:08 PM",
+        "salary": 112467,
+        "bonus": 6.433,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Kathleen",
+        "gender": "Female",
+        "start_date": "8/28/2004",
+        "last_login_time": "10:49 AM",
+        "salary": 52553,
+        "bonus": 3.756,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "9/29/1987",
+        "last_login_time": "10:11 PM",
+        "salary": 71975,
+        "bonus": 14.77,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Katherine",
+        "gender": "Female",
+        "start_date": "8/13/1996",
+        "last_login_time": "12:21 AM",
+        "salary": 149908,
+        "bonus": 23.912,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Elizabeth",
+        "gender": "Female",
+        "start_date": "2/21/2010",
+        "last_login_time": "7:02 AM",
+        "salary": 79145,
+        "bonus": 24.78,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Gregory",
+        "gender": "Male",
+        "start_date": "11/15/1999",
+        "last_login_time": "5:22 PM",
+        "salary": 138031,
+        "bonus": 15.857,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Ruth",
+        "gender": "Female",
+        "start_date": "2/17/2004",
+        "last_login_time": "5:38 AM",
+        "salary": 69969,
+        "bonus": 14.064,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "7/5/1986",
+        "last_login_time": "1:24 AM",
+        "salary": 35381,
+        "bonus": 16.749000000000002,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Deborah",
+        "gender": "Female",
+        "start_date": "11/21/1985",
+        "last_login_time": "1:40 PM",
+        "salary": 113129,
+        "bonus": 22.371,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Willie",
+        "gender": "Male",
+        "start_date": "12/5/2009",
+        "last_login_time": "5:39 AM",
+        "salary": 151932,
+        "bonus": 1.017,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Debra",
+        "gender": "Female",
+        "start_date": "5/28/2006",
+        "last_login_time": "6:51 AM",
+        "salary": 42296,
+        "bonus": 21.922,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Carl",
+        "gender": "Male",
+        "start_date": "12/14/1984",
+        "last_login_time": "8:49 PM",
+        "salary": 63395,
+        "bonus": 16.411,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Walter",
+        "gender": "Male",
+        "start_date": "9/24/2007",
+        "last_login_time": "11:16 PM",
+        "salary": 135382,
+        "bonus": 13.613,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Lisa",
+        "gender": "Female",
+        "start_date": "2/9/1982",
+        "last_login_time": "6:44 PM",
+        "salary": 123592,
+        "bonus": 17.108,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Rebecca",
+        "gender": "Female",
+        "start_date": "3/5/2000",
+        "last_login_time": "10:33 AM",
+        "salary": 56750,
+        "bonus": 11.367,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Jessica",
+        "gender": "Female",
+        "start_date": "10/19/1986",
+        "last_login_time": "9:58 PM",
+        "salary": 100285,
+        "bonus": 13.591,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Craig",
+        "gender": "Male",
+        "start_date": "8/21/1995",
+        "last_login_time": "2:38 AM",
+        "salary": 123876,
+        "bonus": 9.225,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Katherine",
+        "gender": "Female",
+        "start_date": "12/19/2000",
+        "last_login_time": "1:40 AM",
+        "salary": 51643,
+        "bonus": 4.659,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Timothy",
+        "gender": "Male",
+        "start_date": "10/6/2010",
+        "last_login_time": "10:49 PM",
+        "salary": 49473,
+        "bonus": 17.463,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "James",
+        "gender": "Male",
+        "start_date": "12/5/2001",
+        "last_login_time": "7:06 AM",
+        "salary": 77789,
+        "bonus": 17.105,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Martha",
+        "gender": "Female",
+        "start_date": "9/14/2001",
+        "last_login_time": "3:22 AM",
+        "salary": 145758,
+        "bonus": 14.782,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Laura",
+        "gender": "Female",
+        "start_date": "7/12/2000",
+        "last_login_time": "6:07 PM",
+        "salary": 84672,
+        "bonus": 8.96,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Robert",
+        "gender": "Male",
+        "start_date": "11/5/1982",
+        "last_login_time": "12:41 PM",
+        "salary": 111580,
+        "bonus": 15.982,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Ralph",
+        "gender": "Male",
+        "start_date": "3/24/1996",
+        "last_login_time": "11:54 AM",
+        "salary": 50455,
+        "bonus": 21.248,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Diane",
+        "gender": "Female",
+        "start_date": "10/30/2009",
+        "last_login_time": "6:56 PM",
+        "salary": 130577,
+        "bonus": 17.791,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Jacqueline",
+        "gender": "Female",
+        "start_date": "9/20/1994",
+        "last_login_time": "6:07 PM",
+        "salary": 72371,
+        "bonus": 15.77,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Brenda",
+        "gender": "Female",
+        "start_date": "4/17/1984",
+        "last_login_time": "7:12 AM",
+        "salary": 87715,
+        "bonus": 7.675,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Lori",
+        "gender": "Female",
+        "start_date": "9/11/2002",
+        "last_login_time": "7:36 AM",
+        "salary": 76029,
+        "bonus": 3.345,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Frank",
+        "gender": "Male",
+        "start_date": "11/23/2002",
+        "last_login_time": "6:10 PM",
+        "salary": 75147,
+        "bonus": 22.398,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Deborah",
+        "gender": "Female",
+        "start_date": "4/23/2000",
+        "last_login_time": "6:55 PM",
+        "salary": 115573,
+        "bonus": 5.268,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Brian",
+        "gender": "Male",
+        "start_date": "4/7/2007",
+        "last_login_time": "10:47 PM",
+        "salary": 103901,
+        "bonus": 17.821,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Bruce",
+        "gender": "Male",
+        "start_date": "1/28/2007",
+        "last_login_time": "11:10 PM",
+        "salary": 144988,
+        "bonus": 13.926,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Joan",
+        "gender": "Female",
+        "start_date": "10/2/2007",
+        "last_login_time": "2:53 AM",
+        "salary": 130941,
+        "bonus": 3.694,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Harold",
+        "gender": "Male",
+        "start_date": "5/15/2007",
+        "last_login_time": "6:37 PM",
+        "salary": 118753,
+        "bonus": 13.162,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Barbara",
+        "gender": "Female",
+        "start_date": "11/12/2011",
+        "last_login_time": "12:35 AM",
+        "salary": 85718,
+        "bonus": 18.326,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Sarah",
+        "gender": "Female",
+        "start_date": "4/6/1999",
+        "last_login_time": "11:17 AM",
+        "salary": 109517,
+        "bonus": 10.146,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Samuel",
+        "gender": "Male",
+        "start_date": "5/25/2012",
+        "last_login_time": "4:40 PM",
+        "salary": 95550,
+        "bonus": 11.593,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Frank",
+        "gender": "Male",
+        "start_date": "3/2/2009",
+        "last_login_time": "9:15 PM",
+        "salary": 88891,
+        "bonus": 7.927,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Debra",
+        "gender": "Female",
+        "start_date": "3/17/2011",
+        "last_login_time": "1:12 PM",
+        "salary": 94693,
+        "bonus": 6.976,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Thomas",
+        "gender": "Male",
+        "start_date": "9/7/1991",
+        "last_login_time": "9:51 AM",
+        "salary": 65251,
+        "bonus": 16.211,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Harry",
+        "gender": "Male",
+        "start_date": "9/23/2015",
+        "last_login_time": "1:36 AM",
+        "salary": 139148,
+        "bonus": 15.193,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Patricia",
+        "gender": "Female",
+        "start_date": "3/7/1998",
+        "last_login_time": "1:10 AM",
+        "salary": 75825,
+        "bonus": 12.839,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Steve",
+        "gender": "Male",
+        "start_date": "1/11/2002",
+        "last_login_time": "9:17 PM",
+        "salary": 61821,
+        "bonus": 1.197,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Edward",
+        "gender": "Male",
+        "start_date": "11/27/1997",
+        "last_login_time": "1:00 AM",
+        "salary": 68327,
+        "bonus": 17.095,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Karen",
+        "gender": "Female",
+        "start_date": "1/9/2014",
+        "last_login_time": "10:09 PM",
+        "salary": 46478,
+        "bonus": 21.552,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jonathan",
+        "gender": "Male",
+        "start_date": "7/30/1984",
+        "last_login_time": "6:02 PM",
+        "salary": 83809,
+        "bonus": 17.922,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Peter",
+        "gender": "Male",
+        "start_date": "3/22/1982",
+        "last_login_time": "7:28 AM",
+        "salary": 87933,
+        "bonus": 13.132,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Eric",
+        "gender": "Male",
+        "start_date": "6/15/1993",
+        "last_login_time": "3:56 AM",
+        "salary": 61070,
+        "bonus": 13.806,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Terry",
+        "gender": "Male",
+        "start_date": "10/21/2010",
+        "last_login_time": "11:18 PM",
+        "salary": 58357,
+        "bonus": 12.969000000000001,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "John",
+        "gender": "Male",
+        "start_date": "1/29/1999",
+        "last_login_time": "3:07 AM",
+        "salary": 67165,
+        "bonus": 18.000999999999998,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "4/8/1983",
+        "last_login_time": "2:01 PM",
+        "salary": 155988,
+        "bonus": 18.685,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Harold",
+        "gender": "Male",
+        "start_date": "4/16/2010",
+        "last_login_time": "5:13 AM",
+        "salary": 157417,
+        "bonus": 11.626,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Joshua",
+        "gender": "Male",
+        "start_date": "6/27/1997",
+        "last_login_time": "3:23 PM",
+        "salary": 105003,
+        "bonus": 5.197,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Jeremy",
+        "gender": "Male",
+        "start_date": "5/19/1991",
+        "last_login_time": "1:40 PM",
+        "salary": 141513,
+        "bonus": 1.876,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Roy",
+        "gender": "Male",
+        "start_date": "5/10/2004",
+        "last_login_time": "1:22 PM",
+        "salary": 56875,
+        "bonus": 12.942,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Dorothy",
+        "gender": "Female",
+        "start_date": "10/8/2008",
+        "last_login_time": "12:22 AM",
+        "salary": 92744,
+        "bonus": 19.111,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "9/7/1986",
+        "last_login_time": "12:32 AM",
+        "salary": 43252,
+        "bonus": 23.892,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Nicole",
+        "gender": "Female",
+        "start_date": "4/26/2009",
+        "last_login_time": "12:40 AM",
+        "salary": 76047,
+        "bonus": 18.674,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Henry",
+        "gender": "Male",
+        "start_date": "5/12/1986",
+        "last_login_time": "2:04 AM",
+        "salary": 59943,
+        "bonus": 6.432,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Barbara",
+        "gender": "Female",
+        "start_date": "11/26/2002",
+        "last_login_time": "5:32 AM",
+        "salary": 92884,
+        "bonus": 6.837,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Judy",
+        "gender": "Female",
+        "start_date": "4/5/2011",
+        "last_login_time": "1:44 AM",
+        "salary": 58668,
+        "bonus": 11.716,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Lawrence",
+        "gender": "Male",
+        "start_date": "7/23/2011",
+        "last_login_time": "3:41 AM",
+        "salary": 122971,
+        "bonus": 19.618000000000002,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Joseph",
+        "gender": "Male",
+        "start_date": "10/10/2010",
+        "last_login_time": "11:12 PM",
+        "salary": 107050,
+        "bonus": 17.737000000000002,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Carlos",
+        "gender": "Male",
+        "start_date": "1/25/1981",
+        "last_login_time": "10:00 AM",
+        "salary": 138598,
+        "bonus": 19.737000000000002,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Jane",
+        "gender": "Female",
+        "start_date": "7/10/1999",
+        "last_login_time": "7:02 PM",
+        "salary": 128540,
+        "bonus": 20.941000000000003,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Martin",
+        "gender": "Male",
+        "start_date": "2/25/2016",
+        "last_login_time": "6:29 PM",
+        "salary": 61117,
+        "bonus": 7.843999999999999,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "5/30/1980",
+        "last_login_time": "8:25 PM",
+        "salary": 110949,
+        "bonus": 13.813,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "James",
+        "gender": "Male",
+        "start_date": "2/16/2008",
+        "last_login_time": "2:49 AM",
+        "salary": 79111,
+        "bonus": 14.625,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "8/19/2004",
+        "last_login_time": "10:31 AM",
+        "salary": 56602,
+        "bonus": 1.027,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Ernest",
+        "gender": "Male",
+        "start_date": "6/30/2001",
+        "last_login_time": "1:46 PM",
+        "salary": 61181,
+        "bonus": 21.559,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Martha",
+        "gender": "Female",
+        "start_date": "7/17/1997",
+        "last_login_time": "11:11 PM",
+        "salary": 104963,
+        "bonus": 19.626,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Tina",
+        "gender": "Female",
+        "start_date": "8/6/1999",
+        "last_login_time": "3:18 AM",
+        "salary": 102841,
+        "bonus": 8.369,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Henry",
+        "gender": "Male",
+        "start_date": "2/23/2007",
+        "last_login_time": "3:24 AM",
+        "salary": 49665,
+        "bonus": 23.338,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Lisa",
+        "gender": "Female",
+        "start_date": "4/11/2007",
+        "last_login_time": "1:04 AM",
+        "salary": 138042,
+        "bonus": 2.03,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Denise",
+        "gender": "Female",
+        "start_date": "2/19/1984",
+        "last_login_time": "6:22 AM",
+        "salary": 86150,
+        "bonus": 8.997,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Stephen",
+        "gender": "Male",
+        "start_date": "10/21/1984",
+        "last_login_time": "6:26 AM",
+        "salary": 131816,
+        "bonus": 10.615,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Benjamin",
+        "gender": "Male",
+        "start_date": "4/12/1988",
+        "last_login_time": "11:32 PM",
+        "salary": 123409,
+        "bonus": 12.783000000000001,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Ruth",
+        "gender": "Female",
+        "start_date": "9/2/1980",
+        "last_login_time": "6:52 AM",
+        "salary": 59678,
+        "bonus": 15.895,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "12/29/2006",
+        "last_login_time": "3:05 AM",
+        "salary": 67871,
+        "bonus": 4.02,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Jennifer",
+        "gender": "Female",
+        "start_date": "3/31/2015",
+        "last_login_time": "7:43 PM",
+        "salary": 142084,
+        "bonus": 10.006,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Terry",
+        "gender": "Male",
+        "start_date": "11/10/2004",
+        "last_login_time": "4:33 AM",
+        "salary": 45633,
+        "bonus": 3.947,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Jacqueline",
+        "gender": "Female",
+        "start_date": "7/27/2008",
+        "last_login_time": "12:08 PM",
+        "salary": 135298,
+        "bonus": 3.019,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Roger",
+        "gender": "Male",
+        "start_date": "5/2/1988",
+        "last_login_time": "10:04 PM",
+        "salary": 125582,
+        "bonus": 15.343,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Justin",
+        "gender": "Male",
+        "start_date": "7/25/1991",
+        "last_login_time": "12:45 AM",
+        "salary": 112975,
+        "bonus": 14.699,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Janet",
+        "gender": "Female",
+        "start_date": "7/12/2008",
+        "last_login_time": "12:10 PM",
+        "salary": 36927,
+        "bonus": 23.769,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Robin",
+        "gender": "Female",
+        "start_date": "3/26/2004",
+        "last_login_time": "5:41 PM",
+        "salary": 80248,
+        "bonus": 9.66,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Katherine",
+        "gender": "Female",
+        "start_date": "9/22/2006",
+        "last_login_time": "8:08 PM",
+        "salary": 82002,
+        "bonus": 13.178,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Peter",
+        "gender": "Male",
+        "start_date": "5/22/1991",
+        "last_login_time": "1:39 AM",
+        "salary": 112577,
+        "bonus": 12.026,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Lillian",
+        "gender": "Female",
+        "start_date": "8/14/2009",
+        "last_login_time": "5:41 AM",
+        "salary": 123554,
+        "bonus": 18.018,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "11/3/1999",
+        "last_login_time": "9:06 AM",
+        "salary": 85181,
+        "bonus": 6.06,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Bobby",
+        "gender": "Male",
+        "start_date": "9/30/2004",
+        "last_login_time": "10:52 PM",
+        "salary": 79047,
+        "bonus": 23.784,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Kimberly",
+        "gender": "Female",
+        "start_date": "4/20/1986",
+        "last_login_time": "3:55 PM",
+        "salary": 52970,
+        "bonus": 9.513,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Doris",
+        "gender": "Female",
+        "start_date": "9/8/1984",
+        "last_login_time": "7:03 PM",
+        "salary": 124360,
+        "bonus": 17.799,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Steven",
+        "gender": "Male",
+        "start_date": "7/5/2009",
+        "last_login_time": "4:55 AM",
+        "salary": 120306,
+        "bonus": 16.843,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Stephanie",
+        "gender": "Female",
+        "start_date": "9/14/1982",
+        "last_login_time": "8:14 AM",
+        "salary": 96649,
+        "bonus": 8.453,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Sandra",
+        "gender": "Female",
+        "start_date": "9/7/1989",
+        "last_login_time": "4:17 PM",
+        "salary": 121468,
+        "bonus": 2.58,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Kevin",
+        "gender": "Male",
+        "start_date": "7/1/2005",
+        "last_login_time": "3:22 PM",
+        "salary": 151498,
+        "bonus": 4.135,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Lisa",
+        "gender": "Female",
+        "start_date": "7/8/2000",
+        "last_login_time": "9:19 PM",
+        "salary": 40121,
+        "bonus": 11.293,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Fred",
+        "gender": "Male",
+        "start_date": "3/3/1989",
+        "last_login_time": "2:27 AM",
+        "salary": 129712,
+        "bonus": 16.058,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Joseph",
+        "gender": "Male",
+        "start_date": "11/4/1982",
+        "last_login_time": "9:46 PM",
+        "salary": 126010,
+        "bonus": 24.601,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Catherine",
+        "gender": "Female",
+        "start_date": "8/31/1986",
+        "last_login_time": "6:20 PM",
+        "salary": 59970,
+        "bonus": 17.801000000000002,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "12/31/1982",
+        "last_login_time": "6:50 PM",
+        "salary": 145001,
+        "bonus": 24.85,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Lawrence",
+        "gender": "Male",
+        "start_date": "10/1/1984",
+        "last_login_time": "2:06 PM",
+        "salary": 112589,
+        "bonus": 17.952,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Raymond",
+        "gender": "Male",
+        "start_date": "12/12/1986",
+        "last_login_time": "12:18 PM",
+        "salary": 57529,
+        "bonus": 2.712,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Clarence",
+        "gender": "Male",
+        "start_date": "8/5/1989",
+        "last_login_time": "6:11 PM",
+        "salary": 148941,
+        "bonus": 16.517,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Ryan",
+        "gender": "Male",
+        "start_date": "4/15/1988",
+        "last_login_time": "5:18 AM",
+        "salary": 101109,
+        "bonus": 17.499,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Jane",
+        "gender": "Female",
+        "start_date": "1/12/1992",
+        "last_login_time": "1:23 PM",
+        "salary": 51923,
+        "bonus": 18.622999999999998,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Lois",
+        "gender": "Female",
+        "start_date": "7/28/2012",
+        "last_login_time": "11:39 AM",
+        "salary": 53954,
+        "bonus": 24.075,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "3/17/2008",
+        "last_login_time": "2:12 PM",
+        "salary": 39335,
+        "bonus": 15.664,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Thomas",
+        "gender": "Male",
+        "start_date": "5/3/1990",
+        "last_login_time": "9:29 AM",
+        "salary": 121371,
+        "bonus": 15.081,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Kathryn",
+        "gender": "Female",
+        "start_date": "1/29/2008",
+        "last_login_time": "12:29 AM",
+        "salary": 86676,
+        "bonus": 11.081,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Mary",
+        "gender": "Female",
+        "start_date": "11/6/2011",
+        "last_login_time": "8:32 AM",
+        "salary": 115057,
+        "bonus": 7.089,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Julie",
+        "gender": "Female",
+        "start_date": "3/8/1980",
+        "last_login_time": "5:13 AM",
+        "salary": 145357,
+        "bonus": 8.459,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "George",
+        "gender": "Male",
+        "start_date": "9/27/1995",
+        "last_login_time": "5:04 PM",
+        "salary": 36749,
+        "bonus": 24.754,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Ralph",
+        "gender": "Male",
+        "start_date": "2/10/2000",
+        "last_login_time": "4:48 PM",
+        "salary": 89854,
+        "bonus": 12.227,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Judith",
+        "gender": "Female",
+        "start_date": "9/3/1989",
+        "last_login_time": "11:16 AM",
+        "salary": 144048,
+        "bonus": 6.818,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Evelyn",
+        "gender": "Female",
+        "start_date": "2/10/2002",
+        "last_login_time": "4:44 AM",
+        "salary": 133621,
+        "bonus": 19.767,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Rachel",
+        "gender": "Female",
+        "start_date": "6/23/2011",
+        "last_login_time": "12:52 AM",
+        "salary": 64941,
+        "bonus": 3.221,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Kelly",
+        "gender": "Female",
+        "start_date": "3/17/2007",
+        "last_login_time": "6:20 PM",
+        "salary": 39371,
+        "bonus": 9.068,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "5/31/2008",
+        "last_login_time": "8:41 PM",
+        "salary": 83112,
+        "bonus": 9.083,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Kenneth",
+        "gender": "Male",
+        "start_date": "12/14/1985",
+        "last_login_time": "6:55 AM",
+        "salary": 57232,
+        "bonus": 17.862,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "William",
+        "gender": "Male",
+        "start_date": "11/18/1993",
+        "last_login_time": "12:27 PM",
+        "salary": 64058,
+        "bonus": 5.182,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Deborah",
+        "gender": "Female",
+        "start_date": "2/26/2009",
+        "last_login_time": "10:17 AM",
+        "salary": 128043,
+        "bonus": 7.266,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Julia",
+        "gender": "Female",
+        "start_date": "8/18/2014",
+        "last_login_time": "3:12 AM",
+        "salary": 97566,
+        "bonus": 7.147,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Cynthia",
+        "gender": "Female",
+        "start_date": "7/12/2006",
+        "last_login_time": "8:55 AM",
+        "salary": 149684,
+        "bonus": 12.864,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Johnny",
+        "gender": "Male",
+        "start_date": "1/14/2007",
+        "last_login_time": "2:54 PM",
+        "salary": 81383,
+        "bonus": 2.097,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Michael",
+        "gender": "Male",
+        "start_date": "8/31/2002",
+        "last_login_time": "1:20 AM",
+        "salary": 91206,
+        "bonus": 19.908,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Kenneth",
+        "gender": "Male",
+        "start_date": "1/15/2015",
+        "last_login_time": "2:41 PM",
+        "salary": 79112,
+        "bonus": 7.588,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Keith",
+        "gender": "Male",
+        "start_date": "2/12/2003",
+        "last_login_time": "3:02 PM",
+        "salary": 120672,
+        "bonus": 24.467,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Gerald",
+        "gender": "Male",
+        "start_date": "5/28/2010",
+        "last_login_time": "12:26 PM",
+        "salary": 96511,
+        "bonus": 14.331,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Douglas",
+        "gender": "Male",
+        "start_date": "8/4/2007",
+        "last_login_time": "5:23 AM",
+        "salary": 132175,
+        "bonus": 7.279999999999999,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Carolyn",
+        "gender": "Female",
+        "start_date": "3/17/2004",
+        "last_login_time": "6:38 AM",
+        "salary": 118037,
+        "bonus": 18.492,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Joseph",
+        "gender": "Male",
+        "start_date": "5/23/1985",
+        "last_login_time": "10:16 PM",
+        "salary": 149570,
+        "bonus": 15.804,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Billy",
+        "gender": "Male",
+        "start_date": "4/6/2000",
+        "last_login_time": "3:14 PM",
+        "salary": 115280,
+        "bonus": 14.153,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Joyce",
+        "gender": "Female",
+        "start_date": "7/25/2001",
+        "last_login_time": "6:04 AM",
+        "salary": 51065,
+        "bonus": 21.807,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Lillian",
+        "gender": "Female",
+        "start_date": "8/26/2002",
+        "last_login_time": "8:53 AM",
+        "salary": 113854,
+        "bonus": 4.924,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "8/13/2006",
+        "last_login_time": "6:27 PM",
+        "salary": 48354,
+        "bonus": 24.501,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Sandra",
+        "gender": "Female",
+        "start_date": "2/7/1998",
+        "last_login_time": "12:39 PM",
+        "salary": 132327,
+        "bonus": 24.264,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Louise",
+        "gender": "Female",
+        "start_date": "2/26/1982",
+        "last_login_time": "1:03 AM",
+        "salary": 106362,
+        "bonus": 13.965,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Brenda",
+        "gender": "Female",
+        "start_date": "1/3/1981",
+        "last_login_time": "6:01 PM",
+        "salary": 131131,
+        "bonus": 16.682000000000002,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Stephen",
+        "gender": "Male",
+        "start_date": "9/10/1990",
+        "last_login_time": "10:42 PM",
+        "salary": 129663,
+        "bonus": 20.573999999999998,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Bobby",
+        "gender": "Male",
+        "start_date": "6/5/1984",
+        "last_login_time": "7:40 AM",
+        "salary": 103368,
+        "bonus": 2.88,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Ernest",
+        "gender": "Male",
+        "start_date": "9/6/1997",
+        "last_login_time": "2:02 PM",
+        "salary": 53335,
+        "bonus": 14.192,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Diana",
+        "gender": "Female",
+        "start_date": "11/19/2004",
+        "last_login_time": "8:47 AM",
+        "salary": 115066,
+        "bonus": 17.343,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Harry",
+        "gender": "Male",
+        "start_date": "2/10/1985",
+        "last_login_time": "7:46 PM",
+        "salary": 63046,
+        "bonus": 15.411,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Marie",
+        "gender": "Female",
+        "start_date": "12/8/1993",
+        "last_login_time": "6:28 PM",
+        "salary": 108406,
+        "bonus": 7.943,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Sean",
+        "gender": "Male",
+        "start_date": "4/25/2006",
+        "last_login_time": "4:51 PM",
+        "salary": 108581,
+        "bonus": 14.634,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Robin",
+        "gender": "Female",
+        "start_date": "10/1/2012",
+        "last_login_time": "2:44 AM",
+        "salary": 41808,
+        "bonus": 24.239,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Phillip",
+        "gender": "Male",
+        "start_date": "10/7/1984",
+        "last_login_time": "11:05 AM",
+        "salary": 36837,
+        "bonus": 19.66,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Jerry",
+        "gender": "Male",
+        "start_date": "3/26/1989",
+        "last_login_time": "4:15 AM",
+        "salary": 140850,
+        "bonus": 23.855,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Ronald",
+        "gender": "Male",
+        "start_date": "5/25/1983",
+        "last_login_time": "10:05 AM",
+        "salary": 60426,
+        "bonus": 18.536,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Phillip",
+        "gender": "Male",
+        "start_date": "5/15/1984",
+        "last_login_time": "6:15 AM",
+        "salary": 134120,
+        "bonus": 11.841999999999999,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Karen",
+        "gender": "Female",
+        "start_date": "8/29/1997",
+        "last_login_time": "4:56 PM",
+        "salary": 80633,
+        "bonus": 21.306,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Bonnie",
+        "gender": "Female",
+        "start_date": "8/25/2004",
+        "last_login_time": "2:17 AM",
+        "salary": 131943,
+        "bonus": 19.249000000000002,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Earl",
+        "gender": "Male",
+        "start_date": "6/15/2013",
+        "last_login_time": "3:00 AM",
+        "salary": 48046,
+        "bonus": 12.737,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Katherine",
+        "gender": "Female",
+        "start_date": "8/18/2013",
+        "last_login_time": "3:58 PM",
+        "salary": 97443,
+        "bonus": 18.657,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Matthew",
+        "gender": "Male",
+        "start_date": "8/3/1995",
+        "last_login_time": "5:39 AM",
+        "salary": 145352,
+        "bonus": 7.986,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Gerald",
+        "gender": "Male",
+        "start_date": "3/29/2003",
+        "last_login_time": "10:37 AM",
+        "salary": 106329,
+        "bonus": 2.469,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Brenda",
+        "gender": "Female",
+        "start_date": "1/18/2015",
+        "last_login_time": "4:39 PM",
+        "salary": 73749,
+        "bonus": 24.332,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jason",
+        "gender": "Male",
+        "start_date": "5/1/1998",
+        "last_login_time": "6:05 PM",
+        "salary": 85607,
+        "bonus": 4.299,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Melissa",
+        "gender": "Female",
+        "start_date": "9/8/1994",
+        "last_login_time": "4:11 AM",
+        "salary": 108858,
+        "bonus": 3.525,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Beverly",
+        "gender": "Female",
+        "start_date": "4/11/1998",
+        "last_login_time": "2:27 PM",
+        "salary": 86485,
+        "bonus": 9.212,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jacqueline",
+        "gender": "Female",
+        "start_date": "5/25/2003",
+        "last_login_time": "7:13 PM",
+        "salary": 125418,
+        "bonus": 13.064,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Ruby",
+        "gender": "Female",
+        "start_date": "1/28/1980",
+        "last_login_time": "11:08 PM",
+        "salary": 142868,
+        "bonus": 11.318,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Kathryn",
+        "gender": "Female",
+        "start_date": "10/27/1995",
+        "last_login_time": "3:39 PM",
+        "salary": 57300,
+        "bonus": 23.015,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Lisa",
+        "gender": "Female",
+        "start_date": "10/17/2003",
+        "last_login_time": "1:42 PM",
+        "salary": 73706,
+        "bonus": 23.53,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Juan",
+        "gender": "Male",
+        "start_date": "10/6/1993",
+        "last_login_time": "8:52 AM",
+        "salary": 85871,
+        "bonus": 14.16,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "David",
+        "gender": "Male",
+        "start_date": "12/5/2009",
+        "last_login_time": "8:48 AM",
+        "salary": 92242,
+        "bonus": 20.407,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "10/8/2007",
+        "last_login_time": "12:32 AM",
+        "salary": 125149,
+        "bonus": 11.934,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Margaret",
+        "gender": "Female",
+        "start_date": "1/4/2001",
+        "last_login_time": "3:07 AM",
+        "salary": 136924,
+        "bonus": 1.552,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Timothy",
+        "gender": "Male",
+        "start_date": "8/25/1991",
+        "last_login_time": "10:37 AM",
+        "salary": 92587,
+        "bonus": 13.475,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Brandon",
+        "gender": "Male",
+        "start_date": "10/23/1995",
+        "last_login_time": "12:04 PM",
+        "salary": 60263,
+        "bonus": 7.709,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Frank",
+        "gender": "Male",
+        "start_date": "7/27/2013",
+        "last_login_time": "4:32 PM",
+        "salary": 101406,
+        "bonus": 5.681,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Betty",
+        "gender": "Female",
+        "start_date": "11/19/2002",
+        "last_login_time": "10:40 AM",
+        "salary": 47005,
+        "bonus": 7.645,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Victor",
+        "gender": "Male",
+        "start_date": "3/10/2010",
+        "last_login_time": "5:01 PM",
+        "salary": 55267,
+        "bonus": 3.942,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Jane",
+        "gender": "Female",
+        "start_date": "4/27/2012",
+        "last_login_time": "2:12 PM",
+        "salary": 69680,
+        "bonus": 15.211,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Walter",
+        "gender": "Male",
+        "start_date": "5/21/1992",
+        "last_login_time": "12:39 AM",
+        "salary": 154701,
+        "bonus": 16.323,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Christina",
+        "gender": "Female",
+        "start_date": "6/23/2002",
+        "last_login_time": "3:18 PM",
+        "salary": 35477,
+        "bonus": 23.178,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Patricia",
+        "gender": "Female",
+        "start_date": "10/10/1995",
+        "last_login_time": "4:52 PM",
+        "salary": 119266,
+        "bonus": 11.911,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Heather",
+        "gender": "Female",
+        "start_date": "7/29/1983",
+        "last_login_time": "10:48 AM",
+        "salary": 57605,
+        "bonus": 14.955,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Stephanie",
+        "gender": "Female",
+        "start_date": "6/26/1988",
+        "last_login_time": "5:48 AM",
+        "salary": 146604,
+        "bonus": 6.16,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Frances",
+        "gender": "Female",
+        "start_date": "5/16/2014",
+        "last_login_time": "8:31 AM",
+        "salary": 35884,
+        "bonus": 22.667,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Elizabeth",
+        "gender": "Female",
+        "start_date": "7/27/1998",
+        "last_login_time": "11:12 AM",
+        "salary": 137144,
+        "bonus": 15.081,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Janice",
+        "gender": "Female",
+        "start_date": "12/17/2009",
+        "last_login_time": "6:42 AM",
+        "salary": 102697,
+        "bonus": 8.283,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Donald",
+        "gender": "Male",
+        "start_date": "8/1/1991",
+        "last_login_time": "2:25 AM",
+        "salary": 61999,
+        "bonus": 11.466000000000001,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Melissa",
+        "gender": "Female",
+        "start_date": "10/22/2002",
+        "last_login_time": "1:20 AM",
+        "salary": 55223,
+        "bonus": 8.879,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Carl",
+        "gender": "Male",
+        "start_date": "7/7/2010",
+        "last_login_time": "1:33 PM",
+        "salary": 64033,
+        "bonus": 15.528,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Lois",
+        "gender": "Female",
+        "start_date": "12/11/2015",
+        "last_login_time": "4:10 PM",
+        "salary": 99747,
+        "bonus": 11.168,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Todd",
+        "gender": "Male",
+        "start_date": "1/4/1983",
+        "last_login_time": "12:34 PM",
+        "salary": 125566,
+        "bonus": 6.716,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Marilyn",
+        "gender": "Female",
+        "start_date": "1/16/1996",
+        "last_login_time": "7:18 AM",
+        "salary": 128369,
+        "bonus": 7.696,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Shawn",
+        "gender": "Male",
+        "start_date": "3/13/2008",
+        "last_login_time": "5:36 PM",
+        "salary": 51667,
+        "bonus": 11.339,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Ryan",
+        "gender": "Male",
+        "start_date": "4/27/1999",
+        "last_login_time": "3:41 AM",
+        "salary": 85858,
+        "bonus": 24.475,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Sean",
+        "gender": "Male",
+        "start_date": "3/21/2009",
+        "last_login_time": "11:38 AM",
+        "salary": 131423,
+        "bonus": 13.957,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "1/2/2002",
+        "last_login_time": "9:14 PM",
+        "salary": 49538,
+        "bonus": 14.828,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "George",
+        "gender": "Male",
+        "start_date": "6/5/2015",
+        "last_login_time": "5:40 AM",
+        "salary": 60369,
+        "bonus": 18.9,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Deborah",
+        "gender": "Female",
+        "start_date": "11/11/2003",
+        "last_login_time": "4:53 PM",
+        "salary": 60003,
+        "bonus": 14.624,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Judith",
+        "gender": "Female",
+        "start_date": "3/1/2004",
+        "last_login_time": "7:32 AM",
+        "salary": 109324,
+        "bonus": 24.488,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Philip",
+        "gender": "Male",
+        "start_date": "3/11/2005",
+        "last_login_time": "10:56 AM",
+        "salary": 113557,
+        "bonus": 16.014,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jeffrey",
+        "gender": "Male",
+        "start_date": "9/20/1986",
+        "last_login_time": "6:06 AM",
+        "salary": 121376,
+        "bonus": 2.673,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Theresa",
+        "gender": "Female",
+        "start_date": "4/27/2001",
+        "last_login_time": "9:17 PM",
+        "salary": 85661,
+        "bonus": 1.079,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Nancy",
+        "gender": "Female",
+        "start_date": "9/10/2001",
+        "last_login_time": "11:57 PM",
+        "salary": 95213,
+        "bonus": 2.386,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Harold",
+        "gender": "Male",
+        "start_date": "6/23/2012",
+        "last_login_time": "12:40 PM",
+        "salary": 140444,
+        "bonus": 8.771,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Bonnie",
+        "gender": "Female",
+        "start_date": "12/23/2008",
+        "last_login_time": "9:26 AM",
+        "salary": 100427,
+        "bonus": 2.01,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Doris",
+        "gender": "Female",
+        "start_date": "7/5/1993",
+        "last_login_time": "5:54 PM",
+        "salary": 141439,
+        "bonus": 8.799,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Samuel",
+        "gender": "Male",
+        "start_date": "8/7/1997",
+        "last_login_time": "12:40 PM",
+        "salary": 53694,
+        "bonus": 3.787,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Maria",
+        "gender": "Female",
+        "start_date": "3/14/2003",
+        "last_login_time": "5:23 PM",
+        "salary": 96250,
+        "bonus": 15.056,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "William",
+        "gender": "Male",
+        "start_date": "6/26/1997",
+        "last_login_time": "8:33 AM",
+        "salary": 114840,
+        "bonus": 15.653,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Lori",
+        "gender": "Female",
+        "start_date": "11/20/2015",
+        "last_login_time": "1:15 PM",
+        "salary": 85498,
+        "bonus": 6.537,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Wayne",
+        "gender": "Male",
+        "start_date": "9/8/2006",
+        "last_login_time": "11:09 AM",
+        "salary": 67471,
+        "bonus": 7.728,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Kenneth",
+        "gender": "Male",
+        "start_date": "5/10/2006",
+        "last_login_time": "8:24 AM",
+        "salary": 111914,
+        "bonus": 1.905,
+        "is_senior_management": "True",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Scott",
+        "gender": "Male",
+        "start_date": "8/20/2011",
+        "last_login_time": "8:08 AM",
+        "salary": 47385,
+        "bonus": 8.226,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Paula",
+        "gender": "Female",
+        "start_date": "5/21/1983",
+        "last_login_time": "11:42 AM",
+        "salary": 58423,
+        "bonus": 15.833,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Teresa",
+        "gender": "Female",
+        "start_date": "1/22/2013",
+        "last_login_time": "3:17 PM",
+        "salary": 123425,
+        "bonus": 11.907,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Randy",
+        "gender": "Male",
+        "start_date": "2/25/2012",
+        "last_login_time": "5:33 AM",
+        "salary": 57266,
+        "bonus": 19.076999999999998,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Joe",
+        "gender": "Male",
+        "start_date": "1/19/1980",
+        "last_login_time": "4:06 PM",
+        "salary": 129667,
+        "bonus": 1.148,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Sarah",
+        "gender": "Female",
+        "start_date": "8/17/2014",
+        "last_login_time": "11:08 PM",
+        "salary": 127118,
+        "bonus": 16.176000000000002,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Beverly",
+        "gender": "Female",
+        "start_date": "10/17/1986",
+        "last_login_time": "12:51 AM",
+        "salary": 80838,
+        "bonus": 13.115,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Jeffrey",
+        "gender": "Male",
+        "start_date": "2/3/1984",
+        "last_login_time": "1:26 PM",
+        "salary": 80990,
+        "bonus": 15.901,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "10/24/1987",
+        "last_login_time": "4:43 AM",
+        "salary": 39833,
+        "bonus": 14.631,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Stephen",
+        "gender": "Male",
+        "start_date": "10/29/1989",
+        "last_login_time": "11:34 PM",
+        "salary": 103997,
+        "bonus": 18.093,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Jonathan",
+        "gender": "Male",
+        "start_date": "8/21/2013",
+        "last_login_time": "12:45 AM",
+        "salary": 121797,
+        "bonus": 21.923,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Bruce",
+        "gender": "Male",
+        "start_date": "5/7/1980",
+        "last_login_time": "8:00 PM",
+        "salary": 45802,
+        "bonus": 12.391,
+        "is_senior_management": "True",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Catherine",
+        "gender": "Female",
+        "start_date": "9/25/1989",
+        "last_login_time": "1:31 AM",
+        "salary": 68164,
+        "bonus": 23.393,
+        "is_senior_management": "False",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Louis",
+        "gender": "Male",
+        "start_date": "8/16/2011",
+        "last_login_time": "5:19 PM",
+        "salary": 103022,
+        "bonus": 9.146,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Thomas",
+        "gender": "Male",
+        "start_date": "3/12/2016",
+        "last_login_time": "3:10 PM",
+        "salary": 105681,
+        "bonus": 24.572,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Louise",
+        "gender": "Female",
+        "start_date": "3/27/1995",
+        "last_login_time": "10:27 PM",
+        "salary": 43050,
+        "bonus": 16.671,
+        "is_senior_management": "False",
+        "team": "Distribution"
+    },
+    {
+        "first_name": "Linda",
+        "gender": "Female",
+        "start_date": "2/4/2010",
+        "last_login_time": "8:49 PM",
+        "salary": 54486,
+        "bonus": 17.308,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Patrick",
+        "gender": "Male",
+        "start_date": "12/30/2002",
+        "last_login_time": "2:01 AM",
+        "salary": 85423,
+        "bonus": 5.368,
+        "is_senior_management": "True",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Russell",
+        "gender": "Male",
+        "start_date": "5/10/2013",
+        "last_login_time": "11:08 PM",
+        "salary": 137359,
+        "bonus": 16.105,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Harry",
+        "gender": "Male",
+        "start_date": "8/30/2011",
+        "last_login_time": "6:31 PM",
+        "salary": 77656,
+        "bonus": 16.455,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Susan",
+        "gender": "Female",
+        "start_date": "4/7/1995",
+        "last_login_time": "10:05 PM",
+        "salary": 92436,
+        "bonus": 17.467,
+        "is_senior_management": "False",
+        "team": "Sales"
+    },
+    {
+        "first_name": "Denise",
+        "gender": "Female",
+        "start_date": "10/19/1992",
+        "last_login_time": "5:42 AM",
+        "salary": 147954,
+        "bonus": 4.195,
+        "is_senior_management": "True",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Sarah",
+        "gender": "Female",
+        "start_date": "12/4/1995",
+        "last_login_time": "9:16 AM",
+        "salary": 124566,
+        "bonus": 10.949,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Sean",
+        "gender": "Male",
+        "start_date": "1/17/1983",
+        "last_login_time": "2:23 PM",
+        "salary": 66146,
+        "bonus": 16.178,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "Ernest",
+        "gender": "Male",
+        "start_date": "7/20/2013",
+        "last_login_time": "6:41 AM",
+        "salary": 152935,
+        "bonus": 13.198,
+        "is_senior_management": "True",
+        "team": "Product"
+    },
+    {
+        "first_name": "Kimberly",
+        "gender": "Female",
+        "start_date": "1/26/2013",
+        "last_login_time": "12:57 AM",
+        "salary": 56233,
+        "bonus": 8.862,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "James",
+        "gender": "Male",
+        "start_date": "1/15/1993",
+        "last_login_time": "5:19 PM",
+        "salary": 148985,
+        "bonus": 24.28,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "4/6/1982",
+        "last_login_time": "10:43 AM",
+        "salary": 101411,
+        "bonus": 8.639,
+        "is_senior_management": "True",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "John",
+        "gender": "Male",
+        "start_date": "12/23/1982",
+        "last_login_time": "10:35 PM",
+        "salary": 146907,
+        "bonus": 16.738,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Maria",
+        "gender": "Female",
+        "start_date": "10/15/2011",
+        "last_login_time": "4:53 PM",
+        "salary": 43455,
+        "bonus": 18.04,
+        "is_senior_management": "False",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Donna",
+        "gender": "Female",
+        "start_date": "11/26/1982",
+        "last_login_time": "7:04 AM",
+        "salary": 82871,
+        "bonus": 22.999,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Gloria",
+        "gender": "Female",
+        "start_date": "12/8/2014",
+        "last_login_time": "5:08 AM",
+        "salary": 146709,
+        "bonus": 10.331,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Robin",
+        "gender": "Female",
+        "start_date": "7/24/1987",
+        "last_login_time": "1:35 PM",
+        "salary": 110765,
+        "bonus": 10.982,
+        "is_senior_management": "True",
+        "team": "Client Services"
+    },
+    {
+        "first_name": "Rose",
+        "gender": "Female",
+        "start_date": "8/25/2002",
+        "last_login_time": "5:12 AM",
+        "salary": 144505,
+        "bonus": 11.051,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Tina",
+        "gender": "Female",
+        "start_date": "5/15/1997",
+        "last_login_time": "3:53 PM",
+        "salary": 66450,
+        "bonus": 19.04,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "George",
+        "gender": "Male",
+        "start_date": "6/21/2013",
+        "last_login_time": "5:47 PM",
+        "salary": 108874,
+        "bonus": 4.479,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Phillip",
+        "gender": "Male",
+        "start_date": "1/31/1984",
+        "last_login_time": "6:30 AM",
+        "salary": 42392,
+        "bonus": 24.675,
+        "is_senior_management": "False",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Russell",
+        "gender": "Male",
+        "start_date": "5/20/2013",
+        "last_login_time": "12:39 PM",
+        "salary": 96914,
+        "bonus": 6.421,
+        "is_senior_management": "False",
+        "team": "Product"
+    },
+    {
+        "first_name": "Larry",
+        "gender": "Male",
+        "start_date": "4/20/2013",
+        "last_login_time": "4:45 PM",
+        "salary": 60500,
+        "bonus": 16.985,
+        "is_senior_management": "False",
+        "team": "Business Development"
+    },
+    {
+        "first_name": "Sam",
+        "gender": "Male",
+        "start_date": "3/4/2005",
+        "last_login_time": "1:00 PM",
+        "salary": 138705,
+        "bonus": 15.5,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Pamela",
+        "gender": "Female",
+        "start_date": "12/2/1993",
+        "last_login_time": "11:00 PM",
+        "salary": 125000,
+        "bonus": 6.7,
+        "is_senior_management": "True",
+        "team": "Finance"
+    },
+    {
+        "first_name": "Sita",
+        "gender": "Female",
+        "start_date": "6/9/2000",
+        "last_login_time": "12:00 AM",
+        "salary": 110234,
+        "bonus": 16.2,
+        "is_senior_management": "False",
+        "team": "Human Resources"
+    },
+    {
+        "first_name": "John",
+        "gender": "Male",
+        "start_date": "5/12/2001",
+        "last_login_time": "1:45 PM",
+        "salary": 95325,
+        "bonus": 13.9,
+        "is_senior_management": "False",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Ram",
+        "gender": "Male",
+        "start_date": "4/14/1991",
+        "last_login_time": "5:30 PM",
+        "salary": 140892,
+        "bonus": 9.8,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    },
+    {
+        "first_name": "Sam",
+        "gender": "Male",
+        "start_date": "8/6/1993",
+        "last_login_time": "12:42 PM",
+        "salary": 107308,
+        "bonus": 6.945,
+        "is_senior_management": "True",
+        "team": "Marketing"
+    },
+    {
+        "first_name": "Ram",
+        "gender": "Male",
+        "start_date": "8/6/1991",
+        "last_login_time": "12:00 AM",
+        "salary": 11200,
+        "bonus": 7.5,
+        "is_senior_management": "True",
+        "team": "Research"
+    },
+    {
+        "first_name": "Gita",
+        "gender": "Female",
+        "start_date": "7/6/1996",
+        "last_login_time": "1:42 PM",
+        "salary": 93500,
+        "bonus": 12.5,
+        "is_senior_management": "False",
+        "team": "Humar Resources"
+    },
+    {
+        "first_name": "Micheal",
+        "gender": "Male",
+        "start_date": "8/6/1996",
+        "last_login_time": "5:55 PM",
+        "salary": 120000,
+        "bonus": 6.5,
+        "is_senior_management": "False",
+        "team": "Legal"
+    },
+    {
+        "first_name": "Jasmine",
+        "gender": "Female",
+        "start_date": "8/8/1990",
+        "last_login_time": "5:42 PM",
+        "salary": 140000,
+        "bonus": 12.1,
+        "is_senior_management": "True",
+        "team": "Engineering"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "first_name": "Samar",
+        "last_name": "Shrestha",
+        "sex": "Male",
+        "address": "California, USA"
+    },
+    {
+        "id": 2,
+        "first_name": "Sajal",
+        "last_name": "Shrestha",
+        "sex": "Male",
+        "address": "Michigan, USA"
+    },
+    {
+        "id": 3,
+        "first_name": "Sugam",
+        "last_name": "Shrestha",
+        "sex": "Female",
+        "address": "Denver, USA"
+    },
+    {
+        "id": 4,
+        "first_name": "Ishwar",
+        "last_name": "Chapagain",
+        "sex": "Male",
+        "address": "Denver, USA"
+    },
+    {
+        "id": 5,
+        "first_name": "Pabitra",
+        "last_name": "Shrestha",
+        "sex": "Female",
+        "address": "Kathmandu, Nepal"
+    },
+    {
+        "id": 6,
+        "first_name": "Jeevan",
+        "last_name": "Shrestha",
+        "sex": "Male",
+        "address": "Kathmandu, Nepal"
+    },
+    {
+        "id": 7,
+        "first_name": "Angila",
+        "last_name": "Rajbhandari",
+        "sex": "Female",
+        "address": "Kathmandu, Nepal"
+    },
+    {
+        "id": 8,
+        "first_name": "Rama",
+        "last_name": "Shrestha",
+        "sex": "Female",
+        "address": "Kathmandu, Nepal"
+    }
+]

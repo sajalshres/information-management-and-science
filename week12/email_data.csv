@@ -1,0 +1,6 @@
+username,domain name,domain suffix
+user,email,com
+firstname.lastname,email,com
+user.name+22,email,com
+fitst-last.22,email,com
+username,domain-test,com
